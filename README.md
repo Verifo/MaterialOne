@@ -16,3 +16,24 @@ Upcoming Programming Language on May 5, 2022:
 - React (Javascript Library)
 
 *Thank you, Developers.*
+
+# Upcoming Release Dates | Preview (1.0.4)
+- New Websites (November 15, 2021)
+- New Clocks for android 12 (November 17, 2021)
+- New Weathers (November 20, 2021)
+
+# Intergralty Neon 2022 (Conference)
+The First Conference of Intergralty Platforms, Inc. is every may to june.
+> **Software Engineer**
+> - XenonOS (Web for phone operating system)
+> - Intergralty Web Calculator (Web calculator software)
+> - Intergralty Scientific Calculator (Scientific Calculator software)
+> - Intergralty Network *formerly known as Sancisoft Network* (Web portal)
+> - CJ Site Network (Social networking service and Web portal)
+> **Information Technology**
+> - Intergralty Developers (library of technical documentation for end users, developers, and IT professionals)
+> **Design Language**
+> - Intergralty Material One (Upcoming new version of Intergralty Material One)
+> > - **Neonlight** (2.0.0-2.9.0)
+> > - **Flowerlight** (1.6.1-1.10.4)
+> > - **Sunlight** (1.0.2-1.6.0)
