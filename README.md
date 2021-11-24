@@ -32,16 +32,3 @@ The First Conference of Intergralty Platforms, Inc. is every may to june.
 > - CJ Site Network (Social networking service and Web portal)
 > **Information Technology**
 > - Intergralty Developers (library of technical documentation for end users, developers, and IT professionals)
-> **Design Language**
-> - Intergralty Material One (Upcoming new version of Intergralty Material One)
-> > - **Neonlight** (2.0.0-2.4.4)
-> > - **Kryptonlight** (1.6.0-1.63)
-> > - **Radonlight** (1.5.0-1.5.6)
-> > - **Oxygenlight** (1.4.0-1.4.2)
-> > - **Boronlight** (1.3.0-1.3.4)
-> > - **Sunlight** (1.0.3-1.2.2)
-> > - **Xenonlight** (1.3.0-1.3.5)
-> > - **Flowerlight** (1.2.0-1.2.7)
-> > - **Argonlight** (1.1.0-1.1.6)
-> > - **Sunlight** (1.0.2-1.0.11)
-> > 
