@@ -2,7 +2,7 @@
 This is a design language developed and designed by The **Intergralty Enterprises Company** Material One is used more grid-based layouts, responsive animations and transitions, video games, background and color, font family, padding, and depth effects such as lighting and shadows.
 
 The HTML (HyperText Markup Language), CSS (Cascading Style Sheets), and (JS) Javascript
-> **HTML (HyperText Markup Language)** is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).
+> **HyperText Markup Language (HTML)** is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).
 > "Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.
 
 > **Cascading Style Sheets (CSS)** is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
