@@ -11,8 +11,4 @@ The HTML (HyperText Markup Language), CSS (Cascading Style Sheets), and (JS) Jav
 
 On November 12, 2021, The Python was First Web Browser as Intergralty Platfer. On November 14, 2021, The new websites, clocks, calendars, calculators, stopwatchs, and more for HTML, CSS, and Javascript.
 
-Upcoming Programming Language on May 5, 2022:
-- Python (High-level programming language)
-- React (Javascript Library)
-
 *Thank you, Developers.*
