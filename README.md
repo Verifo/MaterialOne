@@ -1,5 +1,5 @@
 # IntergraltyMaterialOne
-This is a design language developed and designed by The **Intergralty Enterprises Company** Material One is used more grid-based layouts, responsive animations and transitions, video games, background and color, font family, padding, and depth effects such as lighting and shadows.
+This is a design language developed and designed by The **Intergralty Platforms, Inc.** Material One is used more grid-based layouts, responsive animations and transitions, video games, background and color, font family, padding, and depth effects such as lighting and shadows.
 
 The HTML (HyperText Markup Language), CSS (Cascading Style Sheets), and (JS) Javascript
 > **HyperText Markup Language (HTML)** is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).
