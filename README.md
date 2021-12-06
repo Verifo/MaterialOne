@@ -9,4 +9,5 @@
 > * 1.0.4 (November 25, 2021) - Updating `README.md`.
 > * 1.0.5 (December 1, 2021) - Websites and Online Chats
 > * 1.0.6 (December 4, 2021) - Fixed the Programming Language and Failed ASP.NET.
+
 > 1.1.0 (December 10, 2021) - December 2021 Update or Star Update
