@@ -1,3 +1,4 @@
+[![Feature Requests](https://img.shields.io/github/issues/Intergralty/IntergraltyMaterialOne)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
 # IntergraltyMaterialOne
 
 * Intergraty MaterialOne is design language software developed by **Intergralty Platforms, Inc.**, like the programming language is HTML, CSS Javascript, C++, Python, Hack, and more.
