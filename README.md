@@ -13,8 +13,8 @@
 > 
 > 1.1.0 (December 6, 2021) - December 2021 Updates
 > * 1.1.1 (December 10, 2021) - First Snow in the December 2021 Updates
+> * 1.1.2 (December 12, 2021) - Second Snow in the December 2021 Updates
 
-> **1.1.2 (December 12, 2021)** - Second Snow in the December 2021 Updates
 > **1.1.3 (December 15, 2021)** - Third Snow in the December 2021 Updates
 
 ## Sunlight (2021-present)
