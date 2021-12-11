@@ -15,9 +15,10 @@
 > * 1.1.1 (December 10, 2021) - First Snow in the December 2021 Updates
 
 > **1.1.2 (December 12, 2021)** - Second Snow in the December 2021 Updates
+> **1.1.3 (December 15, 2021)** - Third Snow in the December 2021 Updates
 
 ## Sunlight (2021-present)
-Sunlight is **family of design language software** developed and marketed by Intergralty Platforms, Inc. On 14 November 2021, The Sunlight is the first family of design language software is called **Intergralty MaterialOne’s Sunlight** or **Intergralty MO Sunlight** is a new website, chats, clocks, stopwatches, and font family.
+Sunlight is **family of design language software** developed and marketed by Intergralty Platforms, Inc. On 14 November 2021, The Sunlight is the first family of design language software is called **Intergralty MaterialOne’s Sunlight** or **Intergralty MO Sunlight** is a new website, chats, clocks, stopwatches, and font family. On 11 December 2021, The night of second december 2021 updates, 11:30 pm is **1.1.2** is a updating december 2021 updates, the fourth snow in the December 2021 updates on 24 December 2021 is updating websites and stopwatches.
 
 “Now, Sunlight is the first family of design language software in the world. After six months later, **Neonlight** is the second family of design language software, new raster graphics, search engines, word editors, scanners, and more, and is the successor to Sunlight. The upcoming date on May 5, 2022”. *-Cyril John Magayaga (Chief Executive Officer of Intergralty Platforms, Inc.)*
 
