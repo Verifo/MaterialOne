@@ -9,7 +9,7 @@
 > * 1.0.3 (November 14, 2021) - Live Wallpapers
 > * 1.0.4 (November 25, 2021) - Updating `README.md`.
 > * 1.0.5 (December 1, 2021) - Websites and Online Chats
-> * 1.0.6 (December 4, 2021) - Fixed the Programming Language and Failed ASP.NET.
+> * 1.0.6 (December 4, 2021) - Fixed the Programming Language and Failed ASP.NET`.
 > 
 > 1.1.0 (December 6, 2021) - December 2021 Updates
 > * 1.1.1 (December 10, 2021) - First Snow in the December 2021 Updates
