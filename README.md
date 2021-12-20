@@ -22,7 +22,7 @@ Sunlight is **family of design language software** developed and marketed by Int
 
 “Now, Sunlight is the first family of design language software in the world. After six months later, **Neonlight** is the second family of design language software, new raster graphics, search engines, word editors, scanners, and more, and is the successor to Sunlight. The upcoming date on May 5, 2022”. *-Cyril John Magayaga (Chief Executive Officer of Intergralty Platforms, Inc.)*
 
-Version: 1.0.0 - present
+Version: 1.0.0 - 1.1.4; Sunlight 1.1.5-present
 ## 2. Neonlight and Vanila Updates (2022-present)
 Neonlight is a family of design language software developed and marketed by Intergralty Platforms, Inc. On 6 December 2021, Now, Sunlight is the first family of design language software in the world. After six months later, Neonlight is the second family of design language software, new raster graphics, search engines, word editors, scanners, and more, and is the successor to Sunlight. 
 
