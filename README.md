@@ -15,8 +15,11 @@
 > * 1.1.1 (December 10, 2021) - First Snow in the December 2021 Updates
 > * 1.1.2 (December 12, 2021) - Second Snow in the December 2021 Updates
 > * 1.1.3 (December 15, 2021) - Third Snow in the December 2021 Updates
+> * 1.1.4 (December 20, 2021) - Fourth Snow in the December 2021 Updates; The **Intergralty Events 2021** is December 21, 2021, the documents.
+> **Sancisoft Franco Updates**
+> * 1.1.5 (December 21, 2021) - Fifth Snow in the December 2021 Updates
+> * 1.1.6 (December 23, 2021) - Sixth Snow in the in the December 2021 Updates
 
-> **1.1.4 (December 20, 2021)** - Fourth Snow in the December 2021 Updates; The **Intergralty Events 2021** is December 21, 2021, the documents.
 ## 1. Sunlight (2021-present)
 Sunlight is **family of design language software** developed and marketed by Intergralty Platforms, Inc. On 14 November 2021, The Sunlight is the first family of design language software is called **Intergralty MaterialOne’s Sunlight** or **Intergralty MO Sunlight** is a new website, chats, clocks, stopwatches, and font family. On 11 December 2021, The night of second december 2021 updates, 11:30 pm is **1.1.2** is a updating december 2021 updates, the fourth snow in the December 2021 updates on 24 December 2021 is updating websites and stopwatches. On 17 December 2021, The **Intergralty MaterialOne** is first largest design language software in the Philippines. On 19 December 2021, The **Intergralty AI** is computer software and artificial intelligence, subsidiary of **Intergralty Platforms Inc.**, and best development of Intergralty MaterialOne.
 
