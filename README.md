@@ -27,9 +27,9 @@
 > * 1.1.12 (January 2, 2022) - First Cold of the Winter Updates
 > * 1.1.13 (January 3, 2022) - Second Cold of the Winter Updates
 > * 1.1.14 (January 5, 2022) - Third Cold of the Winter Updates
+> * 1.1.15 (January 7, 2022) - Fourth Cold of the Winter Updates
 
 **Upcoming Date**
-* 1.1.15 (January 7, 2022) - Fourth Cold of the Winter Updates (**Tomorrow**)
 * 1.1.16 (January 11, 2022) - Fifth Cold of the Winter Updates
 * 1.2.0 (January 12, 2022) - January 2022 Updates
 * 1.2.1 (January 15, 2022) - Seventh Cold of the Winter Updates
