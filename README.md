@@ -30,8 +30,9 @@
 > * 1.1.15 (January 7, 2022) - Fourth Cold of the Winter Updates
 > * 1.1.16 (January 11, 2022) - Fifth Cold of the Winter Updates
 
+> 1.2.0 (January 12, 2022) - January 2022 Updates
+
 **Upcoming Date**
-* 1.2.0 (January 12, 2022) - January 2022 Updates (**Tomorrow**)
 * 1.2.1 (January 15, 2022) - Seventh Cold of the Winter Updates
 * 1.2.2 (January 17, 2022) - Eighth Cold of the Winter Updates
 * 1.2.3 (January 20, 2022) - First World of the Winter Updates
@@ -40,4 +41,8 @@
 ## 1. Sunlight (2021-present)
 Sunlight is **family of design language software** developed and marketed by Intergralty Platforms, Inc. On 14 November 2021, The Sunlight is the first family of design language software is called **Intergralty MaterialOne’s Sunlight** or **Intergralty MO Sunlight** is a new website, chats, clocks, stopwatches, and font family. On 11 December 2021, The night of second december 2021 updates, 11:30 pm is **1.1.2** is a updating december 2021 updates, the fourth snow in the December 2021 updates on 24 December 2021 is updating websites and stopwatches. On 17 December 2021, The **Intergralty MaterialOne** is first largest design language software in the Philippines. On 19 December 2021, The **Intergralty AI** is computer software and artificial intelligence, subsidiary of **Intergralty Platforms Inc.**, and best development of Intergralty MaterialOne. On 24 December 2021, The **Intergralty MaterialOne** renamed **Intergralty AnimationOne**. On 27 December 2021, The **Intergralty Fluent Calculator** was first programming language's python in the Philippines and **Intergralty Web Calculator** was HTML, CSS, and JavaScript is a web calculator application. On 30 December 2021, The **Intergralty MaterialOne** is a upcoming end of life on **September 27, 2028.** On 5 January 2022, The fixing programming language on **HTML, CSS, and JavaScript**. On 11 January 2022, The **Intergralty MaterialOne** is a waiting version of **v1.2.1** on January 15, 2022.
 
-**Version:** (**Google and Samsung:** 1.0.0-1.0.2), (**Sunlight:** 1.0.3-present)
+**Versions**
+| Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Support Ends |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Sunlight | Sunlight | November 14, 2021 | 1.0.3 | 1.2.0 | January 12, 2022 | November 15, 2023 |
+| Google and Samsung | release-betaone | November 2, 2021 | 1.0.0 | 1.0.2 | November 12, 2021 | November 15, 2022 |
