@@ -34,7 +34,7 @@
 > * 1.2.2 (January 15, 2022) - Seventh Cold of the Winter Updates
 
 **Upcoming Date**
-* 1.2.2 (January 17, 2022) - Eighth Cold of the Winter Updates
+* 1.2.2 (January 17, 2022) - Eighth Cold of the Winter Updates (**Tomorrow**)
 * 1.2.3 (January 20, 2022) - First World of the Winter Updates
 * 1.2.4 (January 22, 2022) - Second World of the Winter Updates
 * 1.2.5 (January 24, 2022) - Third World of the Winter Updates
