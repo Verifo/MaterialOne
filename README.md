@@ -1,7 +1,7 @@
 [![Feature Requests](https://img.shields.io/github/issues/Intergralty/IntergraltyMaterialOne)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
 # IntergraltyMaterialOne
 
-* Intergraty MaterialOne is design language software developed by **Intergralty Platforms, Inc.**, like the programming language is HTML, CSS, Javascript, Hack, PHP, and many programming language.
+* Intergraty MaterialOne is design language software developed by **Intergralty Corporation**, like the programming language is HTML, CSS, Javascript, Hack, PHP, and many programming language.
 
 > 1.0.0 (November 2, 2021) - First Google and Samsung Clocks
 > * 1.0.1 (November 8, 2021) - Analog Clocks and Digital Clocks
