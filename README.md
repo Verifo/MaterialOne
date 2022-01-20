@@ -37,7 +37,7 @@
 
 
 **Upcoming Date**
-* 1.2.4 (January 22, 2022) - Second World of the Winter Updates
+* 1.2.4 (January 22, 2022) - Second World of the Winter Updates (**Tomorrow**)
 * 1.2.5 (January 24, 2022) - Third World of the Winter Updates
 * 1.2.6 (January 25, 2022) - Fourth World of the Winter Updates
 * 1.2.7 (January 28, 2022) - Fifth World of the Winter Updates
