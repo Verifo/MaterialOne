@@ -33,11 +33,12 @@
 > 1.2.0 (January 12, 2022) - January 2022 Updates
 > * 1.2.1 (January 15, 2022) - Seventh Cold of the Winter Updates
 > * 1.2.2 (January 17, 2022) - Eighth Cold of the Winter Updates
-> 1.2.3 (January 20, 2022) - First World of the Winter Updates
+> * 1.2.3 (January 20, 2022) - First World of the Winter Updates
+> **Sancisoft Franco Updates**
+> * 1.2.4 (January 22, 2022) - Second World of the Winter Updates
 
 
 **Upcoming Date**
-* 1.2.4 (January 22, 2022) - Second World of the Winter Updates (**Tomorrow**)
 * 1.2.5 (January 24, 2022) - Third World of the Winter Updates
 * 1.2.6 (January 25, 2022) - Fourth World of the Winter Updates
 * 1.2.7 (January 28, 2022) - Fifth World of the Winter Updates
@@ -51,5 +52,5 @@ Sunlight is **family of design language software** developed and marketed by Int
 **Versions**
 | Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Support Ends |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Sunlight | Sunlight | November 14, 2021 | 1.0.3 | 1.2.3 | January 20, 2022 | November 15, 2023 |
+| Sunlight | Sunlight | November 14, 2021 | 1.0.3 | 1.2.4 | January 22, 2022 | November 15, 2023 |
 | Google and Samsung | release-betaone | November 2, 2021 | 1.0.0 | 1.0.2 | November 12, 2021 | November 15, 2022 |
