@@ -36,11 +36,10 @@
 > * 1.2.3 (January 20, 2022) - First World of the Winter Updates
 > **Sancisoft Franco Updates**
 > * 1.2.4 (January 22, 2022) - Second World of the Winter Updates
-
+> * 1.2.5 (January 24, 2022) - Third World of the Winter Updates
 
 **Upcoming Date**
-* 1.2.5 (January 24, 2022) - Third World of the Winter Updates (**Tomorrow**)
-* 1.2.6 (January 25, 2022) - Fourth World of the Winter Updates
+* 1.2.6 (January 25, 2022) - Fourth World of the Winter Updates (**Tomorrow**)
 * 1.2.7 (January 28, 2022) - Fifth World of the Winter Updates
 * 1.2.8 (January 31, 2022) - Sixth World of the Winter Updates
 * 1.2.9 (February 4, 2022) - Seventh World of the Winter Updates
