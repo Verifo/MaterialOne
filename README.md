@@ -16,7 +16,7 @@
 > * 1.1.2 (December 12, 2021) - Second Snow in the December 2021 Updates
 > * 1.1.3 (December 15, 2021) - Third Snow in the December 2021 Updates
 > * 1.1.4 (December 20, 2021) - Fourth Snow in the December 2021 Updates; The **Intergralty Events 2021** is December 21, 2021, the documents.
-> **Sancisoft Franco Updates**
+> * **Sancisoft Franco Updates**
 > * 1.1.5 (December 21, 2021) - Fifth Snow in the December 2021 Updates
 > * 1.1.6 (December 23, 2021) - Sixth Snow in the December 2021 Updates
 > * 1.1.7 (December 25, 2021) - Seventh Snow in the December 2021 Updates
@@ -34,7 +34,7 @@
 > * 1.2.1 (January 15, 2022) - Seventh Cold of the Winter Updates
 > * 1.2.2 (January 17, 2022) - Eighth Cold of the Winter Updates
 > * 1.2.3 (January 20, 2022) - First World of the Winter Updates
-> **Sancisoft Franco Updates**
+> * **Sancisoft Franco Updates**
 > * 1.2.4 (January 22, 2022) - Second World of the Winter Updates
 > * 1.2.5 (January 24, 2022) - Third World of the Winter Updates
 > * 1.2.6 (January 25, 2022) - Fourth World of the Winter Updates
@@ -42,7 +42,7 @@
 > * 1.2.8 (January 31, 2022) - Sixth World of the Winter Updates
 
 **Upcoming Date**
-* 1.2.9 (February 2, 2022) - Seventh World of the Winter Updates
+* 1.2.9 (February 2, 2022) - Seventh World of the Winter Updates (**Tomorrow**)
 * 1.2.10 (February 4, 2022) - Eighth World of the Winter Updates
 * 1.2.11 (February 5, 2022) - Ninth World of the Winter Updates
 
