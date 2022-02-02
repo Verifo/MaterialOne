@@ -45,6 +45,17 @@
 **Upcoming Date**
 * 1.2.10 (February 4, 2022) - Eighth World of the Winter Updates
 * 1.2.11 (February 5, 2022) - Ninth World of the Winter Updates
+* 1.3.0 (February 8, 2022) - Goodlight Updates
+  * 1.3.1 (February 10, 2022) 
+  * 1.3.2 (February 12, 2022)
+  * 1.3.3 (February 14, 2022)
+  * 1.3.4 (February 15, 2022)
+  * 1.3.5 (February 18, 2022)
+  * 1.3.6 (February 21, 2022)
+  * 1.3.7 (February 22, 2022)
+  * 1.3.8 (February 25, 2022)
+  * 1.3.9 (February 28, 2022)
+* 1.4.0 (Upcoming March 2022)
 
 ## 1. Sunlight (2021-present)
 Sunlight is **family of design language software** developed and marketed by Intergralty Platforms, Inc. On 14 November 2021, The Sunlight is the first family of design language software is called **Intergralty MaterialOne’s Sunlight** or **Intergralty MO Sunlight** is a new website, chats, clocks, stopwatches, and font family. On 11 December 2021, The night of second december 2021 updates, 11:30 pm is **1.1.2** is a updating december 2021 updates, the fourth snow in the December 2021 updates on 24 December 2021 is updating websites and stopwatches. On 17 December 2021, The **Intergralty MaterialOne** is first largest design language software in the Philippines. On 19 December 2021, The **Intergralty AI** is computer software and artificial intelligence, subsidiary of **Intergralty Platforms Inc.**, and best development of Intergralty MaterialOne. On 24 December 2021, The **Intergralty MaterialOne** renamed **Intergralty AnimationOne**. On 27 December 2021, The **Intergralty Fluent Calculator** was first programming language's python in the Philippines and **Intergralty Web Calculator** was HTML, CSS, and JavaScript is a web calculator application. On 30 December 2021, The **Intergralty MaterialOne** is a upcoming end of life on **September 27, 2028.** On 5 January 2022, The fixing programming language on **HTML, CSS, and JavaScript**. On 11 January 2022, The **Intergralty MaterialOne** is a waiting version of **v1.2.1** on January 15, 2022. On 14 January 2022, The **Intergralty MaterialOne** is first design language software in the Philippines. On 29 January 2022, the **Intergralty MaterialOne** was last version on **v1.2.11**, new version on **v1.3.0** was Intergralty MaterialOne. On 31 January 2022, the **v1.2.8** is fixed programming language and bugs. On 2 February 2022, the Intergralty MaterialOne's Sunlight, new updating bugs and fixed programming language.
