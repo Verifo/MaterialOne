@@ -73,9 +73,10 @@ Sunlight is **family of design language software** developed and marketed by Int
 * On 29 January 2022, the **Intergralty MaterialOne** was last version on **v1.2.11**, new version on **v1.3.0** was Intergralty MaterialOne. 
 * On 31 January 2022, the **v1.2.8** is fixed programming language and bugs. On 2 February 2022, the Intergralty MaterialOne's Sunlight, new updating bugs and fixed programming language.
 * On 3 February 2022, Intergralty was LTS on MaterialOne's Sunlight, new Intergralty MaterialOne's Moonlight is May 20, 2022.
+* On 4 February 2022, the tomorrow for **v1.2.11** to the new version is **v1.3.0**.
 
 ### **Versions**
 | Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Support Ends |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Sunlight | Sunlight | November 14, 2021 | 1.0.3 | 1.2.9 | February 2, 2022 | November 15, 2023 |
+| Sunlight | Sunlight | November 14, 2021 | 1.0.3 | 1.2.10 | February 4, 2022 | November 15, 2023 |
 | Google and Samsung | release-betaone | November 2, 2021 | 1.0.0 | 1.0.2 | November 12, 2021 | November 15, 2022 |
