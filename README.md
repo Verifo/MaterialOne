@@ -1,7 +1,7 @@
 [![Feature Requests](https://img.shields.io/github/issues/Intergralty/IntergraltyMaterialOne)](https://github.com/Intergralty/MaterialOne)
 # IntergraltyMaterialOne
 
-* Intergraty MaterialOne is design language software developed by **Intergralty Corporation**, like the programming language is HTML, CSS, Javascript, Hack, PHP, and many programming language.
+<details><summary>Intergraty MaterialOne is design language software developed by Intergralty Corporation, like the programming language is HTML, CSS, Javascript, Hack, PHP, and many programming language.</summary>
 
 > 1.0.0 (November 2, 2021) - First Google and Samsung Clocks
 > * 1.0.1 (November 8, 2021) - Analog Clocks and Digital Clocks
@@ -41,9 +41,10 @@
 > * 1.2.7 (January 28, 2022) - Fifth World of the Winter Updates
 > * 1.2.8 (January 31, 2022) - Sixth World of the Winter Updates
 > * 1.2.9 (February 2, 2022) - Seventh World of the Winter Updates
+</details>
 
 **Upcoming Date**
-* 1.2.10 (February 4, 2022) - Eighth World of the Winter Updates
+* 1.2.10 (February 4, 2022) - Eighth World of the Winter Updates (**Tomorrow**)
 * 1.2.11 (February 5, 2022) - Ninth World of the Winter Updates
 * 1.3.0 (February 8, 2022) - Goodlight Updates
   * 1.3.1 (February 10, 2022) 
