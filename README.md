@@ -41,11 +41,11 @@
 > * 1.2.7 (January 28, 2022) - Fifth World of the Winter Updates
 > * 1.2.8 (January 31, 2022) - Sixth World of the Winter Updates
 > * 1.2.9 (February 2, 2022) - Seventh World of the Winter Updates
+> * 1.2.10 (February 4, 2022) - Eighth World of the Winter Updates
 </details>
 
 **Upcoming Date**
-* 1.2.10 (February 4, 2022) - Eighth World of the Winter Updates (**Tomorrow**)
-* 1.2.11 (February 5, 2022) - Ninth World of the Winter Updates
+* 1.2.11 (February 5, 2022) - Ninth World of the Winter Updates (**Tomorrow**)
 * 1.3.0 (February 8, 2022) - Goodlight Updates
   * 1.3.1 (February 10, 2022) 
   * 1.3.2 (February 12, 2022)
