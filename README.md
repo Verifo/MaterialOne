@@ -46,8 +46,8 @@
 </details>
 
 **Upcoming Date**
-* 1.3.0 (February 8, 2022) - Goodlight Updates [**Yesterday**]
-  * 1.3.1 (February 10, 2022) [**Tomorrow**]
+* 1.3.0 (February 8, 2022) - Goodlight Updates [**2 days ago**]
+  * 1.3.1 (February 10, 2022) [**Today**]
   * 1.3.2 (February 12, 2022)
   * 1.3.3 (February 14, 2022)
   * 1.3.4 (February 15, 2022)
@@ -74,13 +74,13 @@ Sunlight is **family of design language software** developed and marketed by Int
 * On 31 January 2022, the **v1.2.8** is fixed programming language and bugs. On 2 February 2022, the Intergralty MaterialOne's Sunlight, new updating bugs and fixed programming language.
 * On 3 February 2022, Intergralty was LTS on MaterialOne's Sunlight, new Intergralty MaterialOne's Moonlight is May 20, 2022.
 * On 4 February 2022, the tomorrow for **v1.2.11** to the new version is **v1.3.0**.
-* On 8 February 2022, the new version is **v1.3.0** to the upcoming month of version was **v1.4.0**
+* On 8 February 2022, the new version is **v1.3.0** to the upcoming month of version was **v1.4.0**.
 
 ### **Versions**
 | Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Support Ends |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Moonlight | `Moonlight` | May 20, 2022 | 1.6.0 | 1.6.0 | Upcoming May 20, 2022 | November 15, 2024 |
-| Sunlight | `Sunlight` | November 14, 2021 | 1.0.3 | 1.3.0 | February 8, 2022 | November 15, 2023 |
+| Sunlight | `Sunlight` | November 14, 2021 | 1.0.3 | 1.3.1 | February 10, 2022 | November 15, 2023 |
 | Google and Samsung | `release-betaone` | November 2, 2021 | 1.0.0 | 1.0.2 | November 12, 2021 | November 15, 2022 |
 
 ## Release Notes
