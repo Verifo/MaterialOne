@@ -46,9 +46,9 @@
 </details>
 
 **Upcoming Date**
-* 1.3.0 (February 8, 2022) - Goodlight Updates [**2 days ago**]
-  * 1.3.1 (February 10, 2022) [**Today**]
-  * 1.3.2 (February 12, 2022)
+* 1.3.0 (February 8, 2022) - Goodlight Updates [**3 days ago**]
+  * 1.3.1 (February 10, 2022) [**Yesterday**]
+  * 1.3.2 (February 12, 2022) [**Tomorrow**]
   * 1.3.3 (February 14, 2022)
   * 1.3.4 (February 15, 2022)
   * 1.3.5 (February 18, 2022)
@@ -93,8 +93,8 @@ Sunlight is **family of design language software** developed and marketed by Int
 
 ## Release Notes
 
-* **v1.0.0** - November 2021 Updates
-* **v1.1.0** - December 2021 Updates
-* **v1.2.0** - January 2022 Updates
-* **v1.3.0** - February 2022 Updates
-* **v1.4.0** - March 2022 Updates
+* **v1.0.0** - November 2021 Updates [**Compeleted**]
+* **v1.1.0** - December 2021 Updates [**Compeleted**]
+* **v1.2.0** - January 2022 Updates [**Compeleted**]
+* **v1.3.0** - February 2022 Updates [**Pending**]
+* **v1.4.0** - March 2022 Updates [**Upcoming**]
