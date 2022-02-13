@@ -46,9 +46,9 @@
 </details>
 
 **Upcoming Date**
-* 1.3.0 (February 8, 2022) - Goodlight Updates [**4 days ago**]
-  * 1.3.1 (February 10, 2022) [**2 days ago**]
-  * 1.3.2 (February 12, 2022) [**Today**]
+* 1.3.0 (February 8, 2022) - Goodlight Updates [**5 days ago**]
+  * 1.3.1 (February 10, 2022) [**3 days ago**]
+  * 1.3.2 (February 12, 2022) [**Yesterday**]
   * 1.3.3 (February 14, 2022)
   * 1.3.4 (February 15, 2022)
   * 1.3.5 (February 18, 2022)
