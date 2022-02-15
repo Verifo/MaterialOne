@@ -46,16 +46,12 @@
 </details>
 
 **Upcoming Date**
-* 1.3.0 (February 8, 2022) - Goodlight Updates [**6 days ago**]
-  * 1.3.1 (February 10, 2022) [**4 days ago**]
-  * 1.3.2 (February 12, 2022) [**2 days ago**]
-  * 1.3.3 (February 14, 2022) [**Today**]
-  * 1.3.4 (February 15, 2022) [**Tomorrow**]
-  * 1.3.5 (February 18, 2022)
-  * 1.3.6 (February 21, 2022)
-  * 1.3.7 (February 22, 2022)
-  * 1.3.8 (February 25, 2022)
-  * 1.3.9 (February 28, 2022)
+* 1.3.0 (February 8, 2022) - Goodlight Updates [**8 days ago**]
+  * 1.3.1 (February 10, 2022) [**6 days ago**]
+  * 1.3.2 (February 12, 2022) [**4 days ago**]
+  * 1.3.3 (February 14, 2022) [**2 days ago**]
+  * 1.3.4 (February 20, 2022)
+  * 1.3.5 (February 28, 2022)
 * 1.4.0 (Upcoming March 2022)
 
 ## 1. Sunlight (2021-present)
