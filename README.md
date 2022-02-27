@@ -93,5 +93,5 @@ Sunlight is **family of design language software** developed and marketed by Int
 * **v1.0.0** - November 2021 Updates [**Completed**]
 * **v1.1.0** - December 2021 Updates [**Completed**]
 * **v1.2.0** - January 2022 Updates [**Completed**]
-* **v1.3.0** - February 2022 Updates [**Pending**]
+* **v1.3.0** - February 2022 Updates [**Completed**]
 * **v1.4.0** - March 2022 Updates [**Upcoming**]
