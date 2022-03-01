@@ -100,7 +100,7 @@ Sunlight is **family of design language software** developed and marketed by Int
 ### **Versions**
 | Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Support Ends |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Moonlight | `Moonlight` | May 20, 2022 | 1.6.0 | 1.6.0 | Upcoming May 20, 2022 | November 15, 2024 |
+| Moonlight | `Moonlight` | May 20, 2022 | 1.6.0 | 1.6.0 | Upcoming May 20, 2022 | May 20, 2024 |
 | Sunlight | `Sunlight` | November 14, 2021 | 1.0.3 | 1.3.5 | February 28, 2022 | November 15, 2023 |
 | Google and Samsung | `release-betaone` | November 2, 2021 | 1.0.0 | 1.0.2 | November 12, 2021 | November 15, 2022 |
 
