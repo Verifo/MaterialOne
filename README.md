@@ -93,6 +93,10 @@ Sunlight is **family of design language software** developed and marketed by Int
 * On 8 February 2022, the new version is **v1.3.0** to the upcoming month of version was **v1.4.0**.
 * On 12 February 2022, Intergralty deletes **.png** (`Hazeon-logo.png`, `Hazeon-search.png`, and `Intergralty.png`)
 
+**March 2022**
+* On 1 March 2022, Intergralty CEO of Documentation on Today, the address of the Intergralty Chairman and CEO.
+* On 2 March 2022, Fourth Months of Anniversary of Intergralty MaterialOne.
+
 ### **Versions**
 | Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Support Ends |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
