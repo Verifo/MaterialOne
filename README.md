@@ -43,16 +43,26 @@
    * 1.2.9 (February 2, 2022) - Seventh World of the Winter Updates
    * 1.2.10 (February 4, 2022) - Eighth World of the Winter Updates
    * 1.2.11 (February 5, 2022) - Ninth World of the Winter Updates
+
+* 1.3.0 (February 8, 2022) - Goodlight Updates
+  * 1.3.1 (February 10, 2022) - First Goodlight Updates
+  * 1.3.2 (February 12, 2022) - Second Goodlight Updates
+  * 1.3.3 (February 14, 2022) - Third Goodlight Updates
+  * 1.3.4 (February 20, 2022) - Fourth Goodlight Updates
+  * 1.3.5 (February 28, 2022) - Fifth Goodlight Updates
 </details>
 
 **Upcoming Date**
-* 1.3.0 (February 8, 2022) - Goodlight Updates [**20 days ago**]
-  * 1.3.1 (February 10, 2022) [**18 days ago**]
-  * 1.3.2 (February 12, 2022) [**16 days ago**]
-  * 1.3.3 (February 14, 2022) [**14 days ago**]
-  * 1.3.4 (February 20, 2022) [**8 days ago**]
-  * 1.3.5 (February 28, 2022) [**Today**]
-* 1.4.0 (Upcoming March 2022)
+* 1.4.0 (March 2, 2022) - Cherrylight Updates
+  * 1.4.1 (March 4, 2022)
+  * 1.4.2 (March 6, 2022)
+  * 1.4.3 (March 8, 2022)
+  * 1.4.4 (March 10, 2022)
+  * 1.4.5 (March 12, 2022)
+  * 1.4.6 (March 14, 2022)
+  * 1.4.7 (March 16, 2022)
+  * 1.4.8 (March 25, 2022)
+  * 1.4.9 (March 30, 2022)
 
 ## 1. Sunlight (2021-present)
 Sunlight is **family of design language software** developed and marketed by Intergralty Platforms, Inc. 
