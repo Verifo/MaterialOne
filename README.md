@@ -52,20 +52,6 @@
   * 1.3.5 (February 28, 2022) - Fifth Goodlight Updates
 </details>
 
-**Upcoming Date**
-* 1.4.0 (March 2, 2022) - Cherrylight Updates
-  * 1.4.1 (March 4, 2022)
-  * 1.4.2 (March 6, 2022)
-  * 1.4.3 (March 8, 2022)
-  * 1.4.4 (March 10, 2022)
-  * 1.4.5 (March 12, 2022)
-  * 1.4.6 (March 14, 2022)
-  * 1.4.7 (March 16, 2022)
-  * 1.4.8 (March 25, 2022)
-  * 1.4.9 (March 30, 2022)
-* 1.5.0 (April 2022) - Endlight Updates
-  * 1.5.9 (April 20, 2022) - Half-Endlight Updates [also known as **Ninth Endlight Updates**]
-
 ## 1. Sunlight (2021-present)
 Sunlight is **family of design language software** developed and marketed by Intergralty Platforms, Inc. 
 
