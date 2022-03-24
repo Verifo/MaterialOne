@@ -1,5 +1,5 @@
 # 1. Sunlight (2021-present)
-Sunlight is **family of design language software** developed and marketed by Intergralty Platforms, Inc. 
+Sunlight is **currently, second major design language software** developed and marketed by Intergralty Corporation.
 
 **November 2021**
 * On 14 November 2021, The Sunlight is the first family of design language software is called **Intergralty MaterialOne’s Sunlight** or **Intergralty MO Sunlight** is a new website, chats, clocks, stopwatches, and font family. 
