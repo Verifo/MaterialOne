@@ -61,6 +61,7 @@ Intergraty MaterialOne is design language software developed by Intergralty Corp
     * 1.4.4.1 (March 24, 2022) - Sixth Cherrylight Updates
   * 1.4.5 (March 23, 2022) - Fifth Cherrylight Updates
   * 1.4.6 (March 24, 2022) - Seventh Cherrylight Updates
+  * 1.4.7 (March 25, 2022) - Eighth Cherrylight Updates
   
 </details>
 
