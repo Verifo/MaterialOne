@@ -100,7 +100,7 @@ Sunlight is **current** and **second major design language software family of Ma
 * On 23 March 2022, Intergralty was MaterialOne (Sunlight) is one of largest design language software by HTML, CSS, and JavaScript.
 * On 24 March 2022, Intergralty was `v1.4.6` is the one of the largest design language software by November 2021.
 * On 25 March 2022, Intergralty was today is one of the largest and hundreds of design language software by March 25, 2022.
-* On 27 March 2022, MaterialOne's Sunlight, please read the documentation #167, #168, #169, and #170.
+* On 27 March 2022, MaterialOne's Sunlight, please read the documentation #167, #168, #169, and https://github.com/Intergralty/MaterialOne/issues/170.
 
 ### **Versions**
 **MaterialOne**
