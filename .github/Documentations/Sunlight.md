@@ -1,5 +1,5 @@
 # 1. Sunlight (2021-present)
-Sunlight is **currently, second major design language software** developed and marketed by Intergralty Corporation.
+Sunlight is **current** and **second major design language software family of MaterialOne** developed and marketed by Intergralty Platforms, Inc. 
 
 **November 2021**
 * On 14 November 2021, The Sunlight is the first family of design language software is called **Intergralty MaterialOne’s Sunlight** or **Intergralty MO Sunlight** is a new website, chats, clocks, stopwatches, and font family. 
@@ -29,6 +29,8 @@ Sunlight is **currently, second major design language software** developed and m
 **March 2022**
 * On 1 March 2022, Intergralty CEO of Documentation on Today, the address of the Intergralty Chairman and CEO.
 * On 2 March 2022, Fourth Months of Anniversary of Intergralty MaterialOne.
-* On 22 March 2022, Intergralty was new version of MaterialOne Sunlight (v1.4.4) in new HTML, CSS Animation, and JavaScript.
+* On 22 March 2022, Intergralty was new version of MaterialOne Sunlight `v1.4.4` in new HTML, CSS Animation, and JavaScript.
 * On 23 March 2022, Intergralty was MaterialOne (Sunlight) is one of largest design language software by HTML, CSS, and JavaScript.
 * On 24 March 2022, Intergralty was `v1.4.6` is the one of the largest design language software by November 2021.
+* On 25 March 2022, Intergralty was today is one of the largest and hundreds of design language software by March 25, 2022.
+* On 27 March 2022, MaterialOne's Sunlight, please read the documentation #167, #168, #169, and https://github.com/Intergralty/MaterialOne/issues/170.
