@@ -1,4 +1,4 @@
-# 1. Sunlight (2021-present)
+# 1. Sunlight (November 14, 2021-present)
 Sunlight is **current** and **second major design language software family of MaterialOne** developed and marketed by Intergralty Platforms, Inc. 
 
 **November 2021**
