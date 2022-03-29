@@ -75,7 +75,7 @@ Intergraty MaterialOne is design language software developed by Intergralty Corp
 | Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Support Ends |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Cherrylight | `Cherrylight` | May 20, 2022 | 1.6.0 | 1.6.0 | Upcoming May 20, 2022 | May 20, 2024 |
-| Sunlight | `Sunlight` | November 14, 2021 | 1.0.3 | 1.4.7 | March 25, 2022 | November 15, 2023 |
+| Sunlight | `Sunlight` | November 14, 2021 | 1.0.3 | 1.4.8 | March 30, 2022 | November 15, 2023 |
 | Sunlight | `Sunlight-Lite` | February 2, 2022 | v0.1 | v0.4 | March 23, 2022 | February 15, 2023 |
 | Google and Samsung | `release-betaone` | November 2, 2021 | 1.0.0 | 1.0.2 | November 12, 2021 | November 15, 2022 |
 
