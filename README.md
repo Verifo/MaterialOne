@@ -89,3 +89,7 @@ Intergraty MaterialOne is **group of design language service families** develope
 * **v1.4.0** - March 2022 Updates [**Pending**]
 * **v1.5.0** - April 2022 Updates [**Upcoming**]
 * **v1.6.0** - May 2022 Updates [**Upcoming**]
+
+## Copyright
+* Copyright 2021-2022 **Cyril John Magayaga**
+* Copyright 2021-2022 **Intergralty Corporation**
