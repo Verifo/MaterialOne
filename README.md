@@ -1,7 +1,7 @@
 [![Feature Requests](https://img.shields.io/github/issues/Intergralty/IntergraltyMaterialOne)](https://github.com/Intergralty/MaterialOne)
 # Intergralty MaterialOne
 
-Intergraty MaterialOne is **group of design language software families** developed by Intergralty Corporation, like the programming language is HTML, CSS, Javascript, Hack, PHP, and many programming language.
+Intergraty MaterialOne is **group of design language service families** developed by Intergralty Corporation, like the programming language is HTML, CSS, Javascript, Hack, PHP, and many programming language.
 
 <details><summary><h3>History of Version</h3></summary>
 
