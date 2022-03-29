@@ -1,7 +1,7 @@
 [![Feature Requests](https://img.shields.io/github/issues/Intergralty/IntergraltyMaterialOne)](https://github.com/Intergralty/MaterialOne)
 # Intergralty MaterialOne
 
-Intergraty MaterialOne is **group of design language service families** developed by Intergralty Corporation, like the programming language is HTML, CSS, Javascript, Hack, PHP, and many programming language.
+Intergraty MaterialOne is **group of design language service families** developed by Intergralty Corporation, like the programming language is **HTML** (developed by 	**WHATWG**), **CSS** (developed by 	**World Wide Web Consortium** or **W3C**), **Javascript** (original author by **Brendan Eich of Netscape** and developed by **ECMAScript**), **Hack** (developed by **Meta Platforms Inc.)**, **PHP** (original author by **Rasmus Lerdorf** and developed by **The PHP Development Team** and **Zend Technologies**), and many programming language.
 
 <details><summary><h3>History of Version</h3></summary>
 
