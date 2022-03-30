@@ -8,7 +8,6 @@ It is Philippines' largest and hundreds of web-based design language service by 
 ## History of MaterialOne Releases
 ### 1. [Google and Samsung Updates (November 2, 2021 - November 14, 2021)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Google-and-Samsung.md)
 ### 2. [Sunlight Updates (November 14, 2021 - present)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Sunlight.md)
-### 3. Cherrylight
 
 ### **Versions**
 **MaterialOne**
