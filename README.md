@@ -20,7 +20,7 @@ It is Philippines' largest and hundreds of web-based design language service by 
 [**MaterialOne Lite**](https://github.com/Intergralty/MaterialOneLite)
 | Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Preview Update Version | Preview Update Date | Support Ends |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Sunlight | `Sunlight-Lite` | December 2021 | v0.1 | v0.4 | March 23, 2022 | v0.5 | March 31, 2022 | February 15, 2023 |
+| Sunlight | `Sunlight-Lite` | December 6, 2021 | v0.1 (as February 2, 2022) | v0.4 | March 23, 2022 | v0.5 | March 31, 2022 | February 15, 2023 |
 
 [**AnimationOne**](https://github.com/Intergralty/AnimationOne/tree/Sunlight_One) (also known as **MaterialOne Preview**)
 | Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Preview Update Version | Preview Update Date | Support Ends |
