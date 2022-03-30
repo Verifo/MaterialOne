@@ -101,6 +101,7 @@ It is Philippines' largest and hundreds of web-based design language service by 
 * **v1.5.0** - April 2022 Updates [**Upcoming**]
 * **v1.6.0** - May 2022 Updates [**Upcoming**]
 
-## Copyright
+## Copyright and License
 * Copyright 2021-2022 **Cyril John Magayaga**
 * Copyright 2021-2022 **Intergralty Corporation**
+Under the **Apache-2.0 License**
