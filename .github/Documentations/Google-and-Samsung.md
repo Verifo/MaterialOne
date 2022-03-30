@@ -1,4 +1,4 @@
-# Google and Samsung (November 2, 2021 - November 12, 2021)
+# Google and Samsung (November 2, 2021 - November 14, 2021)
 Google and Samsung, also known as **GS** is a **first major design language serivce of MaterialOne** developed by Intergralty Platforms Inc.
 
 **November 2021**
