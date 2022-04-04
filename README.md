@@ -90,6 +90,7 @@ It is Philippines' largest and hundreds of web-based design language service by 
   * 1.4.9 (March 31, 2022) - Tenth Cherrylight Updates
 
 * 1.5.0 (April 1, 2022) - Dark of the Cherrylight Updates
+  * 1.5.1 (April 5, 2022) - One Dark of the Cherrylight Updates
   
 </details>
 
