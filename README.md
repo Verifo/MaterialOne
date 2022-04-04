@@ -14,7 +14,7 @@ It is Philippines' largest and hundreds of web-based design language service by 
 | Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Preview Update Version | Preview Update Date | Support Ends |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Cherrylight | `Cherrylight` | May 20, 2022 | 1.6.0 | 1.6.0 | Upcoming May 20, 2022 | - | May 20, 2022 | May 20, 2024 |
-| Sunlight | `Sunlight` | November 14, 2021 | 1.0.3 | 1.5.0 | March 31, 2022 | 1.5.1 | April 5, 2022 | November 15, 2023 |
+| Sunlight | `Sunlight` | November 14, 2021 | 1.0.3 | 1.5.1 | April 5, 2022 | 1.5.2 | April 9, 2022 | November 15, 2023 |
 | Google and Samsung | `release-betaone` | November 2, 2021 | 1.0.0 | 1.0.2 | November 12, 2021 | 1.0.2 | November 14, 2021 | November 15, 2022 |
 
 [**MaterialOne Lite**](https://github.com/Intergralty/MaterialOneLite)
