@@ -40,3 +40,5 @@ Sunlight is **current** and **second major design language service family of Mat
 * On 1 April 2022, Intergralty was fifth months of Intergralty MaterialOne, today in largest web-based design language software by **March 30, 2022**. It is new CSS Animation and JavaScript like `Bootwatch` and `Bootstrap`. (No April Pool's Day)
 * On 4 April 2022, 47th Anniversary of **Microsoft Corporation**, the world's largest software maker by 2016 and largest video game company love _Xbox_, _Microsoft Windows_, _Visual Studio_, _Visual Studio Code_, _PowerToys_, _GitHub_, _Microsoft Edge_, and other hardware and software. The **MaterialOne** is largest web-based design language software by March and April 2022!
 * On 5 April 2022, The today on `v1.5.1` to final release date on `v1.5.10` is **Sunlight**. The life of the **Sunlight** are hundreds of design language software.
+
+**Preceded by:** [Google and Samsung Updates (November 2, 2021)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Google-and-Samsung.md)
