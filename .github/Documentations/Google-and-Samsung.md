@@ -6,3 +6,5 @@ Google and Samsung, also known as **GS** is a **first major design language seri
 * On 6 November 2021, Today of Philippines' tens of design language software by November 2, 2021.
 * On 12 November 2021, Intergralty was final release date on `v1.0.2`, it is a three tags and issues.
 * On 14 November 2021, Intergralty Google and Samsung to succeeded by **Sunlight**.
+
+**Succeeded by:** [Sunlight (November 14, 2021)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Sunlight.md)
