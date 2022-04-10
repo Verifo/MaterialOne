@@ -42,5 +42,6 @@ Sunlight is **current** and **second major design language service family of Mat
 * On 5 April 2022, The today on `v1.5.1` to final release date on `v1.5.10` is **Sunlight**. The life of the **Sunlight** are hundreds of design language software.
 * On 6 April 2022, The upcoming `v1.5` of the Intergralty MaterialOne's Sunlight. Please the documentation: [#182](https://github.com/Intergralty/MaterialOne/issues/182)
 * On 9 April 2022, Intergralty was fastest version in the Sct. Alcatraz, Sienna, Quezon City, Metro Manila, Philippines.
+* On 10 April 2022, Well, the new Intergralty MaterialOne's Sunlight was Long-support updates, said Chairman, CEO, & CTO 
 
 **Preceded by:** [Google and Samsung Updates (November 2, 2021)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Google-and-Samsung.md)
