@@ -49,6 +49,7 @@ Sunlight is **current** and **second major design language service family of Mat
 **May 2022**
 * On 7 May 2022, Intergralty was three days later on **MaterialOne**
 * On 10 May 2022, Intergralty was **MaterialOne** is a today on 'v1.5.6'.
+* On 13 May 2022, Intergralty Corporation to the Vancely Corporation, the "**Goodbye, Intergralty**".
 
 **Preceded by:**
 * [Google and Samsung Updates (November 2, 2021 - November 14, 2021)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Google-and-Samsung.md)
