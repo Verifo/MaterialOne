@@ -56,4 +56,4 @@ Sunlight is **current** and **second major design language service family of Mat
 * MaterialOneLite (December 6, 2021 - April 25, 2022)
 
 **Succeeded by**
-* Moonlight (June 9, 2022 - present)
+* Moonlight (June 20, 2022 - present)
