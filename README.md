@@ -82,6 +82,18 @@ It is Philippines' largest and hundreds of web-based design language service by 
   
 </details>
 
+## Current and Long-term support Releases
+
+| Release | Statue | Codename | Release Date | Maintenance end |
+|:-:|:-:|:-:|:-:|:-:|
+| v1.0.0 | Maintenance LTS | Google and Samsung | November 2, 2021 | November 12, 2022 |
+| v1.0.1 | Maintenance LTS | | November 9, 2021 | November 12, 2022 |
+| v1.0.2 | Maintenance LTS | | November 12, 2021 | November 12, 2022 |
+| v1.0.3 | Maintenance LTS | | November 14, 2021 | November 12, 2022 |
+| v1.0.4 | Maintenance LTS | Sunlight | November 25, 2021 | May 15, 2023 |
+| v1.0.5 | Maintenance LTS | | December 1, 2021 | May 15, 2023 |
+| v1.0.6 | Maintenance LTS | | December 4, 2021 | May 15, 2023 |
+
 ## Release Notes
 
 * **v1.0.0** - November 2021 Updates [**Completed**]
@@ -94,5 +106,5 @@ It is Philippines' largest and hundreds of web-based design language service by 
 
 ## Copyright and License
 * Copyright 2021-2022 **Cyril John Magayaga**
-* Copyright 2021-2022 **Intergralty Corporation**
+* Copyright 2021-2022 **Vancely Corporation**
 * Under the **Apache-2.0 License**
