@@ -8,4 +8,4 @@
 * On June 13, 2022, **Vancely** is a upcoming date on **June 20, 2022**.
 
 **Preceded by:**
-* [Google and Samsung Updates (November 14, 2021 - June 20, 2022)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Google-and-Samsung.md)
+* [Sunlight Updates (November 14, 2021 - June 20, 2022)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Sunlight.md)
