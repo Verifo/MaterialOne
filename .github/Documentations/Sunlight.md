@@ -1,5 +1,5 @@
 # 1. Sunlight (November 14, 2021-present)
-Sunlight is **current** and **second major design language service family of MaterialOne** developed and marketed by Intergralty Platforms, Inc. 
+Sunlight is **second major design language service family of MaterialOne** developed and marketed by Intergralty Corporation. 
 
 **November 2021**
 * On 14 November 2021, The Sunlight is the first family of design language software is called **Intergralty MaterialOne’s Sunlight** or **Intergralty MO Sunlight** is a new website, chats, clocks, stopwatches, and font family. 
