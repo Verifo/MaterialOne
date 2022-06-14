@@ -93,6 +93,35 @@ It is Philippines' largest and hundreds of web-based design language service by 
 | v1.0.4 | Maintenance LTS | Sunlight | November 25, 2021 | May 15, 2023 |
 | v1.0.5 | Maintenance LTS | | December 1, 2021 | May 15, 2023 |
 | v1.0.6 | Maintenance LTS | | December 4, 2021 | May 15, 2023 |
+| v1.1.0 | Maintenance LTS | | December 6, 2021 | May 15, 2023 |
+| v1.1.1 | Maintenance LTS | | December 6, 2021 | May 15, 2023 |
+| v1.1.2 | Maintenance LTS | | December 7, 2021 | May 15, 2023 |
+| v1.1.3 | Maintenance LTS | | December 10, 2021 | May 15, 2023 |
+| v1.1.4 | Maintenance LTS | | December 21, 2021 | May 15, 2023 |
+| v1.1.5 | Maintenance LTS | | December 21, 2021 | May 15, 2023 |
+| v1.1.6 | Maintenance LTS | | December 23, 2021 | May 15, 2023 |
+| v1.1.7 | Maintenance LTS | | December 25, 2021 | May 15, 2023 |
+| v1.1.8 | Maintenance LTS | | December 26, 2021 | May 15, 2023 |
+| v1.1.9 | Maintenance LTS | | December 31, 2021 | May 15, 2023 |
+| v1.1.10 | Maintenance LTS | | December 31, 2021 | May 15, 2023 |
+| v1.1.11 | Maintenance LTS | | January 1, 2022 | May 15, 2023 |
+| v1.1.12 | Maintenance LTS | | January 2, 2022 | May 15, 2023 |
+| v1.1.13 | Maintenance LTS | | January 3, 2022 | May 15, 2023 |
+| v1.1.14 | Maintenance LTS | | January 3, 2022 | May 15, 2023 |
+| v1.1.15 | Maintenance LTS | | January 5, 2022 | May 15, 2023 |
+| v1.1.16 | Maintenance LTS | | January 6, 2022 | May 15, 2023 |
+| v1.2.0 | Maintenance LTS | | January 9, 2022 | May 15, 2023 |
+| v1.2.1 | Maintenance LTS | | January 14, 2022 | May 15, 2023 |
+| v1.2.2 | Maintenance LTS | | January 17, 2022 | May 15, 2023 |
+| v1.2.3 | Maintenance LTS | | January 20, 2022 | May 15, 2023 |
+| v1.2.4 | Maintenance LTS | | January 22, 2022 | May 15, 2023 |
+| v1.2.5 | Maintenance LTS | | January 24, 2022 | May 15, 2023 |
+| v1.2.6 | Maintenance LTS | | January 26, 2022 | May 15, 2023 |
+| v1.2.7 | Maintenance LTS | | January 28, 2022 | May 15, 2023 |
+| v1.2.8 | Maintenance LTS | | January 31, 2022 | May 15, 2023 |
+| v1.2.9 | Maintenance LTS | | February 2, 2022 | May 15, 2023 |
+| v1.2.10 | Maintenance LTS | | February 4, 2022 | May 15, 2023 |
+| v1.2.11 | Maintenance LTS | | February 5, 2022 | May 15, 2023 |
 
 ## Release Notes
 
