@@ -122,6 +122,12 @@ It is Philippines' largest and hundreds of web-based design language service by 
 | v1.2.9 | Maintenance LTS | | February 2, 2022 | May 15, 2023 |
 | v1.2.10 | Maintenance LTS | | February 4, 2022 | May 15, 2023 |
 | v1.2.11 | Maintenance LTS | | February 5, 2022 | May 15, 2023 |
+| v1.3.0 | Maintenance LTS | | February 8, 2022 | May 15, 2023 |
+| v1.3.1 | Maintenance LTS | | February 10, 2022 | May 15, 2023 |
+| v1.3.2 | Maintenance LTS | | February 12, 2022 | May 15, 2023 |
+| v1.3.3 | Maintenance LTS | | February 14, 2022 | May 15, 2023 |
+| v1.3.4 | Maintenance LTS | | February 20, 2022 | May 15, 2023 |
+| v1.3.5 | Maintenance LTS | | February 28, 2022 | May 15, 2023 |
 
 ## Release Notes
 
