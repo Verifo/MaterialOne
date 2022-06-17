@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<!-- saved from url=(0067)http://www.gstatic.com/chromecast/imax/clocks/flip_clock_light.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <title>Flip Clock</title>
+  <link href="./FlipClock(Light)_files/css" rel="stylesheet" nonce="">
+  <link href="./FlipClock(Light)_files/icon" rel="stylesheet" nonce="">
+  <style>
+    /* Blaze will replace the following line with compiled CSS in prod mode.
+     * Do NOT modify the following line.
+     */
+*{margin:0;padding:0}#alarm-icon{color:#fff;font-size:30px;position:absolute;right:40px;top:40px;z-index:5}body{font-family:'Product Sans', sans-serif;height:100%;overflow:hidden;width:100%}.hidden{display:none}.flipclock-counter{bottom:5vh;height:90vh;left:3.125vw;position:absolute;top:5vh;width:93.75vw;z-index:1}ul.flip{float:left;height:90vh;list-style:none;position:relative;width:45.3125vw}ul.flip:first-child{margin-right:3.125vw}ul.flip li{height:100%;left:0;position:absolute;top:0;width:100%;z-index:1}ul.flip li:first-child{z-index:2}ul.flip li span{display:block;perspective:900px;height:100%}ul.flip li span div{overflow:hidden;position:absolute;width:100%;z-index:1}ul.flip li span div .flip-text{border-radius:16px;color:#fff;height:90vh;line-height:90vh;position:absolute;text-align:center;width:100%;z-index:1}.flip-text{font-size:50vh}.flip-shadow{height:100%;position:absolute;width:100%;z-index:2}.flip-hinge{position:absolute;top:44.8125vh;height:.375vh;width:45.3125vw;z-index:5}.flip-up{backface-visibility:hidden;border-radius:40px 40px 0 0;box-shadow:inset 0 2px 0 0;height:45vh;transform-origin:50% 100%;top:0}.flip-up .flip-shadow{height:40.6vh}.flip-up .flip-text{top:0}.flip-down{backface-visibility:hidden;border-radius:0 0 40px 40px;transform-origin:50% 0%;bottom:0}.flip-down,.flip-down .flip-shadow{height:45vh}.flip-down .flip-text{bottom:0}@keyframes flip-ani-index{0%{z-index:2}5%{z-index:4}100%{z-index:4}}@keyframes flip-ani-up{0%{opacity:0;transform:rotateX(0deg)}50%{opacity:0;transform:rotateX(90deg)}51%{opacity:1;transform:rotateX(90deg)}100%{transform:rotateX(0deg)}}@keyframes bounce-up{0%{transform:rotateX(0deg)}100%{transform:rotateX(3deg)}}@keyframes bounce-down{0%{transform:rotateX(3deg)}100%{transform:rotateX(0deg)}}@keyframes flip-ani-down{0%{transform:rotateX(0deg)}50%{opacity:1;transform:rotateX(90deg)}51%{opacity:0;transform:rotateX(90deg)}52%{opacity:0;transform:rotateX(0deg)}100%{opacity:0;transform:rotateX(0deg)}}@keyframes show{0%{opacity:0}100%{opacity:1}}@keyframes hide{0%{opacity:1}100%{opacity:0}}ul.play li.before{z-index:3}ul.play li.before .flip-up{animation:flip-ani-down 0.35s cubic-bezier(0.5, 0, 0.9, 1) both;z-index:2}ul.play li.before .flip-up .flip-shadow{animation:show .175s linear both;background:linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.2) 100%)}ul.play li.before .flip-down .flip-shadow{animation:show .175s linear both;background:linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, transparent 100%)}ul.play li.active{animation:flip-ani-index .75s .175s linear both;z-index:2}ul.play li.active .flip-down{animation:flip-ani-up 0.35s cubic-bezier(0.5, 0, 0.9, 1),bounce-up 0.2s 0.35s cubic-bezier(0.1, 0, 0.4, 1),bounce-down 0.2s 0.55s cubic-bezier(0.6, 0, 0.4, 1);z-index:2}ul.play li.active .flip-down .flip-shadow{animation:hide .175s .175s linear both;background:linear-gradient(to bottom, rgba(0,0,0,0.2) 0%, transparent 100%)}ul.play li.active .flip-up .flip-shadow{animation:hide .175s linear both;background:linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.2) 100%)}body{background-color:#fff}.flip-up,.flip-down{background-color:#bdc1c6}.flip-up{color:rgba(0,0,0,0.05)}.flip-hinge{background-color:rgba(60,64,67,0.3)}
+
+/*# sourceMappingURL=light_theme.css.map */  </style>
+
+  <!-- Uncomment the following during local development -->
+  <!-- <link rel="stylesheet" type="text/css" href="light_theme.css"> -->
+</head>
+<body data-new-gr-c-s-check-loaded="14.1036.0" data-gr-ext-installed="">
+  <div id="flipclock" class="contents-data" aria-label="9:41 AM">
+    <div class="flipclock-counter" aria-hidden="true">
+      <ul class="flip flip-hour">
+        <li class="before">
+          <span>
+            <div class="flip-up">
+              <div class="flip-shadow"></div>
+              <div class="flip-text">9</div>
+            </div>
+            <div class="flip-down">
+              <div class="flip-shadow"></div>
+              <div class="flip-text">9</div>
+            </div>
+          </span>
+        </li>
+        <div class="flip-hinge"></div>
+        <li class="active">
+          <span>
+            <div class="flip-up">
+              <div class="flip-shadow"></div>
+              <div class="flip-text">9</div>
+            </div>
+            <div class="flip-down">
+              <div class="flip-shadow"></div>
+              <div class="flip-text">9</div>
+            </div>
+          </span>
+        </li>
+      </ul>
+      <ul class="flip flip-minute play">
+        <i id="alarm-icon" class="hidden material-icons">alarm</i>
+        <li class="active">
+          <span>
+            <div class="flip-up">
+              <div class="flip-shadow"></div>
+              <div class="flip-text">41</div>
+            </div>
+            <div class="flip-down">
+              <div class="flip-shadow"></div>
+              <div class="flip-text">41</div>
+            </div>
+          </span>
+        </li>
+        <div class="flip-hinge"></div>
+        <li class="before">
+          <span>
+            <div class="flip-up">
+              <div class="flip-shadow"></div>
+              <div class="flip-text">40</div>
+            </div>
+            <div class="flip-down">
+              <div class="flip-shadow"></div>
+              <div class="flip-text">40</div>
+            </div>
+          </span>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <script nonce="">
+    // Blaze will replace the following with compiled js in prod mode.
+    // Do NOT modify the following line.
+var g="function"==typeof Object.create?Object.create:function(a){var b=function(){};b.prototype=a;return new b},h;if("function"==typeof Object.setPrototypeOf)h=Object.setPrototypeOf;else{var k;a:{var m={w:!0},n={};try{n.__proto__=m;k=n.w;break a}catch(a){}k=!1}h=k?function(a,b){a.__proto__=b;if(a.__proto__!==b)throw new TypeError(a+" is not extensible");return a}:null}
+var p=h,q="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){a!=Array.prototype&&a!=Object.prototype&&(a[b]=c.value)},r="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,t=function(a,b){if(b){var c=r;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];e in c||(c[e]={});c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&q(c,a,{configurable:!0,writable:!0,value:b})}},u=function(a,b){return Object.prototype.hasOwnProperty.call(a,
+b)},v=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},w=function(a){var b="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return b?b.call(a):{next:v(a)}},x=function(){x=function(){};r.Symbol||(r.Symbol=y)},y=function(){var a=0;return function(b){return"jscomp_symbol_"+(b||"")+a++}}(),A=function(){x();var a=r.Symbol.iterator;a||(a=r.Symbol.iterator=r.Symbol("iterator"));"function"!=typeof Array.prototype[a]&&q(Array.prototype,a,{configurable:!0,
+writable:!0,value:function(){return z(v(this))}});A=function(){}},z=function(a){A();a={next:a};a[r.Symbol.iterator]=function(){return this};return a};
+t("WeakMap",function(a){function b(){}function c(a){u(a,e)||q(a,e,{value:new b})}function d(a){var G=Object[a];G&&(Object[a]=function(a){if(a instanceof b)return a;c(a);return G(a)})}if(function(){if(!a||!Object.seal)return!1;try{var c=Object.seal({}),b=Object.seal({}),d=new a([[c,2],[b,3]]);if(2!=d.get(c)||3!=d.get(b))return!1;d["delete"](c);d.set(b,4);return!d.has(c)&&4==d.get(b)}catch(Z){return!1}}())return a;var e="$jscomp_hidden_"+Math.random();d("freeze");d("preventExtensions");d("seal");var f=
+0,l=function(a){this.i=(f+=Math.random()+1).toString();if(a){a=w(a);for(var c;!(c=a.next()).done;)c=c.value,this.set(c[0],c[1])}};l.prototype.set=function(a,b){c(a);if(!u(a,e))throw Error("WeakMap key fail: "+a);a[e][this.i]=b;return this};l.prototype.get=function(a){return u(a,e)?a[e][this.i]:void 0};l.prototype.has=function(a){return u(a,e)&&u(a[e],this.i)};l.prototype["delete"]=function(a){return u(a,e)&&u(a[e],this.i)?delete a[e][this.i]:!1};return l});
+t("Map",function(a){if(function(){if(!a||"function"!=typeof a||!a.prototype.entries||"function"!=typeof Object.seal)return!1;try{var c=Object.seal({x:4}),b=new a(w([[c,"s"]]));if("s"!=b.get(c)||1!=b.size||b.get({x:4})||b.set({x:4},"t")!=b||2!=b.size)return!1;var d=b.entries(),e=d.next();if(e.done||e.value[0]!=c||"s"!=e.value[1])return!1;e=d.next();return e.done||4!=e.value[0].x||"t"!=e.value[1]||!d.next().done?!1:!0}catch(aa){return!1}}())return a;A();var b=new WeakMap,c=function(a){this.h={};this.f=
+f();this.size=0;if(a){a=w(a);for(var c;!(c=a.next()).done;)c=c.value,this.set(c[0],c[1])}};c.prototype.set=function(a,c){a=0===a?0:a;var b=d(this,a);b.list||(b.list=this.h[b.id]=[]);b.a?b.a.value=c:(b.a={next:this.f,g:this.f.g,head:this.f,key:a,value:c},b.list.push(b.a),this.f.g.next=b.a,this.f.g=b.a,this.size++);return this};c.prototype["delete"]=function(a){a=d(this,a);return a.a&&a.list?(a.list.splice(a.index,1),a.list.length||delete this.h[a.id],a.a.g.next=a.a.next,a.a.next.g=a.a.g,a.a.head=null,
+this.size--,!0):!1};c.prototype.clear=function(){this.h={};this.f=this.f.g=f();this.size=0};c.prototype.has=function(a){return!!d(this,a).a};c.prototype.get=function(a){return(a=d(this,a).a)&&a.value};c.prototype.entries=function(){return e(this,function(a){return[a.key,a.value]})};c.prototype.keys=function(){return e(this,function(a){return a.key})};c.prototype.values=function(){return e(this,function(a){return a.value})};c.prototype.forEach=function(a,b){for(var c=this.entries(),d;!(d=c.next()).done;)d=
+d.value,a.call(b,d[1],d[0],this)};c.prototype[Symbol.iterator]=c.prototype.entries;var d=function(a,c){var d=c&&typeof c;"object"==d||"function"==d?b.has(c)?d=b.get(c):(d=""+ ++l,b.set(c,d)):d="p_"+c;var e=a.h[d];if(e&&u(a.h,d))for(a=0;a<e.length;a++){var f=e[a];if(c!==c&&f.key!==f.key||c===f.key)return{id:d,list:e,index:a,a:f}}return{id:d,list:e,index:-1,a:void 0}},e=function(a,c){var b=a.f;return z(function(){if(b){for(;b.head!=a.f;)b=b.g;for(;b.next!=b.head;)return b=b.next,{done:!1,value:c(b)};
+b=null}return{done:!0,value:void 0}})},f=function(){var a={};return a.g=a.next=a.head=a},l=0;return c});
+t("Set",function(a){if(function(){if(!a||"function"!=typeof a||!a.prototype.entries||"function"!=typeof Object.seal)return!1;try{var b=Object.seal({x:4}),d=new a(w([b]));if(!d.has(b)||1!=d.size||d.add(b)!=d||1!=d.size||d.add({x:4})!=d||2!=d.size)return!1;var e=d.entries(),f=e.next();if(f.done||f.value[0]!=b||f.value[1]!=b)return!1;f=e.next();return f.done||f.value[0]==b||4!=f.value[0].x||f.value[1]!=f.value[0]?!1:e.next().done}catch(l){return!1}}())return a;A();var b=function(a){this.c=new Map;if(a){a=
+w(a);for(var b;!(b=a.next()).done;)this.add(b.value)}this.size=this.c.size};b.prototype.add=function(a){a=0===a?0:a;this.c.set(a,a);this.size=this.c.size;return this};b.prototype["delete"]=function(a){a=this.c["delete"](a);this.size=this.c.size;return a};b.prototype.clear=function(){this.c.clear();this.size=0};b.prototype.has=function(a){return this.c.has(a)};b.prototype.entries=function(){return this.c.entries()};b.prototype.values=function(){return this.c.values()};b.prototype.keys=b.prototype.values;
+b.prototype[Symbol.iterator]=b.prototype.values;b.prototype.forEach=function(a,b){var c=this;this.c.forEach(function(d){return a.call(b,d,d,c)})};return b});var B=function(a,b){if(null==a)throw new TypeError("The 'this' value for String.prototype."+b+" must not be null or undefined");return a+""};t("String.prototype.repeat",function(a){return a?a:function(a){var b=B(this,"repeat");if(0>a||1342177279<a)throw new RangeError("Invalid count value");a|=0;for(var d="";a;)if(a&1&&(d+=b),a>>>=1)b+=b;return d}});
+t("String.prototype.padStart",function(a){return a?a:function(a,c){var b=B(this,"padStart");a-=b.length;c=void 0!==c?String(c):" ";return(0<a&&c?c.repeat(Math.ceil(a/c.length)).substring(0,a):"")+b}});var C=this,D=function(a,b){a=a.split(".");var c=C;a[0]in c||"undefined"==typeof c.execScript||c.execScript("var "+a[0]);for(var d;a.length&&(d=a.shift());)a.length||void 0===b?c=c[d]&&c[d]!==Object.prototype[d]?c[d]:c[d]={}:c[d]=b};/*
+ Copyright (c) Microsoft Corporation. All rights reserved.
+ Licensed under the Apache License, Version 2.0 (the "License"); you may not use
+ this file except in compliance with the License. You may obtain a copy of the
+ License at http://www.apache.org/licenses/LICENSE-2.0
+
+ THIS CODE IS PROVIDED ON AN *AS IS* BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
+ WARRANTIES OR CONDITIONS OF TITLE, FITNESS FOR A PARTICULAR PURPOSE,
+ MERCHANTABLITY OR NON-INFRINGEMENT.
+
+ See the Apache Version 2.0 License for specific language governing permissions
+ and limitations under the License.
+*/
+var E={F:"is24HourFormat",G:"isAlarmSet",I:"timeMs",D:"disableAnimations",H:"isDemo"},F=new Set(["is24HourFormat","isAlarmSet","isDemo","disableAnimations"]),H=new Set(["timeMs"]);function I(){var a=new Map,b=window.location.hash;if(!b)return a;b=b.substr(1);var c=J(b);Object.keys(E).forEach(function(b){b=E[b];var d=c.get(b)||null;F.has(b)?a.set(b,"true"===d):H.has(b)?a.set(b,d&&Number(d)):a.set(b,d)});return a}
+function J(a){var b=new Map;a.split("&").forEach(function(a){a=a.split("=");b.set(a[0],a[1])});return b};var P=function(a,b,c){var d=this;a=void 0===a?!0:a;this.element=b;this.j=null;this.b=a?I():c?c:new Map;this.currentTime=K(this);this.v();a&&(window.onhashchange=function(){var a=d.b;d.b=I();var b=d.b.get("is24HourFormat");a&&b===a.get("is24HourFormat")||L(d);b=d.b.get("isAlarmSet");a&&a.get("isAlarmSet")===b||M(d)});this.b.get("isDemo")?N(this):O(this)},S=function(a){var b=Q(a);return{l:a.b.get("is24HourFormat")?String(b).padStart(2,"0"):0===b||12===b?"12":String(b%12),m:String(R(a)).padStart(2,"0"),
+o:a.b.get("is24HourFormat")?"":12<=Q(a)?"PM":"AM"}},N=function(a){a.j=window.setTimeout(function(){requestAnimationFrame(function(){N(a);a.currentTime.setMinutes(a.currentTime.getMinutes()+1);a.refresh()})},1E3)},O=function(a){a.j=window.setTimeout(function(){requestAnimationFrame(function(){O(a);a.currentTime=K(a);a.refresh()})},T(a))};P.prototype.v=function(){};
+var R=function(a){return a.b.get("timeMs")?a.currentTime.getUTCMinutes():a.currentTime.getMinutes()},Q=function(a){return a.b.get("timeMs")?a.currentTime.getUTCHours():a.currentTime.getHours()},K=function(a){return(a=a.b.get("timeMs"))?new Date(a):new Date},T=function(a){a=K(a);var b=a.getTime();a.setMinutes(a.getMinutes()+1);a.setSeconds(0);a.setMilliseconds(0);return Math.max(a.getTime()-b,0)};P.prototype.B=function(){this.j&&(window.clearTimeout(this.j),this.j=null)};var U=function(a){P.apply(this,arguments)};U.prototype=g(P.prototype);U.prototype.constructor=U;if(p)p(U,P);else for(var V in P)if("prototype"!=V)if(Object.defineProperties){var W=Object.getOwnPropertyDescriptor(P,V);W&&Object.defineProperty(U,V,W)}else U[V]=P[V];U.J=P.prototype;var M=function(a){a.A.classList.toggle("hidden",!a.b.get("isAlarmSet"))},L=function(a){var b=S(a);document.querySelector("ul.flip-hour").querySelectorAll(".flip-text").forEach(function(a){a.innerHTML=b.l});X(a,b)};
+U.prototype.v=function(){this.A=document.getElementById("alarm-icon");this.C=document.getElementById("flipclock");this.u=R(this);this.s=Q(this);var a=S(this);document.querySelector("ul.flip-minute").querySelectorAll(".flip-text").forEach(function(b){b.innerHTML=a.m});document.querySelector("ul.flip-hour").querySelectorAll(".flip-text").forEach(function(b){b.innerHTML=a.l});X(this,a);M(this)};
+U.prototype.refresh=function(){var a=R(this),b=Q(this),c=S(this);this.u!==a&&(Y("minute",c.m),this.u=a,X(this,c));this.s!==b&&(Y("hour",c.l),this.s=b,X(this,c))};
+var X=function(a,b){var c=b.l+":"+b.m;b.o&&(c+=" "+b.o);a.C.setAttribute("aria-label",c)},Y=function(a,b){a=document.querySelector("ul.flip-"+a);a.classList.remove("play");a.querySelectorAll("li").forEach(function(a){a.classList.toggle("active");a.classList.toggle("before")});a.classList.add("play");a.querySelectorAll("li.active .flip-text").forEach(function(a){a.innerHTML=b})};D("FlipClock",U);D("FlipClock.prototype.dispose",U.prototype.B);
+  </script>
+
+  <!-- Uncomment the following during local development -->
+  <!-- <script type="text/javascript" src="_/ts_scripts.js"></script> -->
+
+  <script nonce="">new FlipClock()</script>
+
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
