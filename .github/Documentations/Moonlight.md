@@ -5,6 +5,8 @@
 **May 2022**
 
 * On May 30, 2022, **Vancely** was upcoming major design language service of **MaterialOne's Moonlight**.
+
+**June 2022**
 * On June 13, 2022, **Vancely** is a upcoming date on **June 20, 2022**.
 
 **Preceded by:**
