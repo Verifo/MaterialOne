@@ -1,6 +1,8 @@
 # MaterialOne
 
-**MaterialOne** (formerly known as **Intergraty MaterialOne**) is **group of design language service families** developed by **Vancely**, like the programming language is **HTML** (developed by 	**WHATWG**), **CSS** (developed by 	**World Wide Web Consortium** or **W3C**), **Javascript** (original author by **Brendan Eich of Netscape** and developed by **ECMAScript**), **Hack** (developed by **Meta Platforms Inc.)**, **PHP** (original author by **Rasmus Lerdorf** and developed by **The PHP Development Team** and **Zend Technologies**), and many programming language.
+**MaterialOne** (formerly known as **Intergraty MaterialOne**) is **group of design language service families** developed by **Vancely**.
+
+The programming language is **HTML** (developed by 	**WHATWG**), **CSS** (developed by 	**World Wide Web Consortium** or **W3C**), **Javascript** (original author by **Brendan Eich of Netscape** and developed by **ECMAScript**), **Hack** (developed by **Meta Platforms Inc.)**, **PHP** (original author by **Rasmus Lerdorf** and developed by **The PHP Development Team** and **Zend Technologies**), and many programming language.
 
 It is Philippines' largest and hundreds of web-based design language service by March 25, 2022 and March 30, 2022.
 
