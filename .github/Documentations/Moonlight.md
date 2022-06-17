@@ -8,6 +8,7 @@
 
 **June 2022**
 * On June 13, 2022, **Vancely** is a upcoming date on **June 20, 2022**.
+* On June 17, 2022, Fixing new websites.
 
 **Preceded by:**
 * [Sunlight Updates (November 14, 2021 - June 20, 2022)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Sunlight.md)
