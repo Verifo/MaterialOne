@@ -1,4 +1,4 @@
-# 1. Sunlight (November 14, 2021 - June 20, 2022)
+# 1. Sunlight (November 14, 2021 - present)
 Sunlight is **second major design language service family of MaterialOne** developed and marketed by Intergralty Corporation. 
 
 **November 2021**
