@@ -14,7 +14,7 @@ It is Philippines' largest and hundreds of web-based design language service by 
 | Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Preview Update Version | Preview Update Date | Support Ends |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Moonlight | `Moonlight` | June 20, 2022 | 1.6.0 | 1.6.0 | Upcoming May 30, 2022 | - | May 30, 2022 | November 20, 2023 |
-| Sunlight | `Sunlight` | November 14, 2021 | 1.0.3 | 1.5.6 | May 16, 2022 | - | - | May 15, 2023 |
+| Sunlight | `Sunlight` | November 14, 2021 | 1.0.3 | 1.5.7 | June 18, 2022 | - | - | May 15, 2023 |
 | Google and Samsung | `release-betaone` | November 2, 2021 | 1.0.0 | 1.0.2 | November 12, 2021 | 1.0.2 | November 14, 2021 | November 15, 2022 |
 
 [**AnimationOne**](https://github.com/Intergralty/AnimationOne/tree/Sunlight_One) (also known as **MaterialOne Preview**)
@@ -91,6 +91,7 @@ It is Philippines' largest and hundreds of web-based design language service by 
   * 1.5.4 (April 18, 2022) - Four Dark of the Cherrylight Updates
   * 1.5.5 (April 25, 2022) - Five Dark of Cherrylight Updates
   * 1.5.6 (May 10, 2022) - Six Dark of the Cherrylight Updates
+  * 1.5.7 (June 18, 2022) - Seven Dark of the Cherrylight Updates
   
 </details>
 
