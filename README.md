@@ -168,7 +168,7 @@ It is Philippines' largest and hundreds of web-based design language service by 
 * **v1.2.0** - January 2022 Updates [**Completed**]
 * **v1.3.0** - February 2022 Updates [**Completed**]
 * **v1.4.0** - March 2022 Updates [**Completed**]
-* **v1.5.0** - April-May 2022 Updates [**Compeleted**]
+* **v1.5.0** - April-May 2022 Updates [**Pending**] (October 14, 2022 was final release date)
 * **v1.6.0** - June 2022 Updates [**Upcoming**] (June 20, 2022)
 
 ## Copyright and License
