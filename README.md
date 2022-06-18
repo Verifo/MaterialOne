@@ -102,7 +102,7 @@ It is Philippines' largest and hundreds of web-based design language service by 
 * **v1.2.0** - January 2022 Updates [**Completed**]
 * **v1.3.0** - February 2022 Updates [**Completed**]
 * **v1.4.0** - March 2022 Updates [**Completed**]
-* **v1.5.0** - April 2022 Updates [**Compeleted**]
+* **v1.5.0** - April 2022 Updates [**Pending**] (October 14, 2022 was final release date)
 
 ## Copyright and License
 * Copyright 2021-2022 **Cyril John Magayaga**
