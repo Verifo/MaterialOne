@@ -159,7 +159,7 @@ It is Philippines' largest and hundreds of web-based design language service by 
 | Version | Release Date | Download `.zip` |
 |:-:|:-:|:-:|
 | v1.5.6 | May 10, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sunlight_56.zip) |
-| v1.5.7 | June 18, 2022 | [Open]() |
+| v1.5.7 | June 18, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sunlight_57.zip) |
 
 ## Release Notes
 
