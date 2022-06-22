@@ -81,6 +81,7 @@ It is Philippines' largest and hundreds of web-based design language service by 
   * 1.5.4 (April 18, 2022) - Four Dark of the Cherrylight Updates
   * 1.5.5 (April 25, 2022) - Five Dark of Cherrylight Updates
   * 1.5.6 (May 10, 2022) - Six Dark of the Cherrylight Updates
+  * 1.5.7 (June 18, 2022) - Seven Dark of the Cherrylight Updates 
 
 * 1.6.0 (June 20, 2022) - Moonlight Updates
   
