@@ -150,7 +150,9 @@ It is Philippines' largest and hundreds of web-based design language service by 
 | v1.5.5 | Active LTS | | April 25, 2022 | May 15, 2023 |
 | v1.5.6 | Active LTS | | May 10, 2022 | May 15, 2023 |
 | v1.5.7 | Current | | June 18, 2022 | May 15, 2023 |
-| v1.6.0 | Upcoming | Moonlight | June 20, 2022 | November 20, 2023 |
+| v1.5.8 | Upcoming | | June 24, 2022 | May 15, 2023 |
+| v1.6.0 | Current | Moonlight | June 20, 2022 | November 20, 2023 |
+| v1.6.1 | Upcoming | | June 30, 2022 | November 20, 2023 |
   
 </details>
 
@@ -158,8 +160,8 @@ It is Philippines' largest and hundreds of web-based design language service by 
 
 | Version | Release Date | Download `.zip` |
 |:-:|:-:|:-:|
-| v1.5.6 | May 10, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sunlight_56.zip) |
 | v1.5.7 | June 18, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sunlight_57.zip) |
+| v1.6.0 | June 20, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Moonlight.zip) |
 
 ## Release Notes
 
