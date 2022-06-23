@@ -26,3 +26,4 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
 #### Copyright 2021-2022 Intergralty Corporation
+#### Copyright 2022 Vancely Corporation
