@@ -9,19 +9,6 @@ It is Philippines' largest and hundreds of web-based design language service by 
 ### 1. [Google and Samsung Updates (November 2, 2021 - November 14, 2021)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Google-and-Samsung.md)
 ### 2. [Sunlight Updates (November 14, 2021 - October 14, 2022)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Sunlight.md)
 
-### **Versions**
-**MaterialOne**
-| Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Preview Update Version | Preview Update Date | Support Ends |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Moonlight | `Moonlight` | June 20, 2022 | 1.6.0 | 1.6.0 | Upcoming June 20, 2022 | - | May 30, 2022 | November 20, 2023 |
-| Sunlight | `Sunlight` | November 14, 2021 | 1.0.3 | 1.5.7 | June 18, 2022 | 1.5.8 | June 20, 2022 | May 15, 2023 |
-| Google and Samsung | `release-betaone` | November 2, 2021 | 1.0.0 | 1.0.2 | November 12, 2021 | 1.0.2 | November 14, 2021 | November 15, 2022 |
-
-[**AnimationOne**](https://github.com/Intergralty/AnimationOne/tree/Sunlight_One) (also known as **MaterialOne Preview**)
-| Versions | Code Name | Release date | Version number | Latest Update Version | Latest Update Date | Preview Update Version | Preview Update Date | Support Ends |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Sunlight One | `Sunlight_One` | December 4, 2021 | v1.1.5 | v1.5.1 | May 10, 2022 | v1.5.2 | May 22, 2022 | December 4, 2025 |
-
 <details><summary> History of Version </summary>
 
 * 1.0.0 (November 2, 2021) - First Google and Samsung Clocks
@@ -92,6 +79,7 @@ It is Philippines' largest and hundreds of web-based design language service by 
   * 1.5.5 (April 25, 2022) - Five Dark of Cherrylight Updates
   * 1.5.6 (May 10, 2022) - Six Dark of the Cherrylight Updates
   * 1.5.7 (June 18, 2022) - Seven Dark of the Cherrylight Updates
+  * 1.5.8 (June 24, 2022) - Eight Dark of the Cherrylight Updates
   
 </details>
 
