@@ -55,8 +55,8 @@ Sunlight is **second major design language service family of MaterialOne** devel
 * On 18 June 2022, Vancely announced ''Reversion'' for Sunlight Updates, and LTS Date on **October 14, 2022**.
 
 **Preceded by:**
-* [Google and Samsung Updates (November 2, 2021 - November 14, 2021)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Google-and-Samsung.md)
+* [Google and Samsung Updates (November 2, 2021 - November 14, 2021)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Google-and-Samsung.md)
 * MaterialOneLite (December 6, 2021 - April 25, 2022)
 
 **Succeeded by**
-* [Moonlight (June 20, 2022 - present)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Moonlight.md)
+* [Moonlight (June 20, 2022 - present)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Moonlight.md)
