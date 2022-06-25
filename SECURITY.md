@@ -5,8 +5,12 @@
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
+| Version | Supported          | Notes |
+| ------- | ------------------ | ----- |
+| Name_1  | :white_check_mark: | This is codename or App name, not a real name |
+| Name1   | :white_check_mark: |
+| 1_name  | :x:                |
+| 1name   | :x:                |
 | 5.1.x   | :white_check_mark: |
 | 5.0.x   | :x:                |
 | 4.0.x   | :white_check_mark: |
