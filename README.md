@@ -82,6 +82,7 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
   * 1.5.5 (April 25, 2022) - Five Dark of Cherrylight Updates
   * 1.5.6 (May 10, 2022) - Six Dark of the Cherrylight Updates
   * 1.5.7 (June 18, 2022) - Seven Dark of the Cherrylight Updates 
+  * 1.5.8 (June 24, 2022) - Eight Dark of the Cherrylight Updates
 
 * 1.6.0 (June 20, 2022) - Moonlight Updates
   
@@ -149,9 +150,10 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 | v1.5.3 | Maintenance LTS | | April 13, 2022 | May 15, 2023 |
 | v1.5.4 | Maintenance LTS | | April 18, 2022 | May 15, 2023 |
 | v1.5.5 | Maintenance LTS | | April 25, 2022 | May 15, 2023 |
-| v1.5.6 | Active LTS | | May 10, 2022 | May 15, 2023 |
-| v1.5.7 | Current | | June 18, 2022 | May 15, 2023 |
-| v1.5.8 | Upcoming | | June 24, 2022 | May 15, 2023 |
+| v1.5.6 | Maintenance LTS | | May 10, 2022 | May 15, 2023 |
+| v1.5.7 | Active LTS | | June 18, 2022 | May 15, 2023 |
+| v1.5.8 | Current | | June 24, 2022 | May 15, 2023 |
+| v1.5.9 | Upcoming | | June 30, 2022 | May 15, 2023 |
 | v1.6.0 | Current | Moonlight | June 20, 2022 | November 20, 2023 |
 | v1.6.1 | Upcoming | | June 30, 2022 | November 20, 2023 |
   
