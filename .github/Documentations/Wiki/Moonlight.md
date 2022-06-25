@@ -12,4 +12,4 @@
 * On June 22, 2022, **Vancely** announced the real **web development platform**, not a **design language service**.
 
 **Preceded by:**
-* [Sunlight Updates (November 14, 2021 - June 20, 2022)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Sunlight.md)
+* [Sunlight Updates (November 14, 2021 - present)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Sunlight.md)
