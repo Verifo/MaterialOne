@@ -13,9 +13,9 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 
 
 ## History of MaterialOne Releases
-### 1. [Google and Samsung Updates (November 2, 2021 - November 14, 2021)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Google-and-Samsung.md)
-### 2. [Sunlight Updates (November 14, 2021 - October 14, 2022)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Sunlight.md)
-### 3. [Moonlight Updates (June 20, 2022 - present)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Moonlight.md)
+### 1. [Google and Samsung Updates (November 2, 2021 - November 14, 2021)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Google-and-Samsung.md)
+### 2. [Sunlight Updates (November 14, 2021 - October 14, 2022)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Sunlight.md)
+### 3. [Moonlight Updates (June 20, 2022 - present)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Moonlight.md)
 
 ## Downloads
 
