@@ -1,4 +1,9 @@
-# MaterialOne
+<p align="center">
+  <a href="https://github.com/Vancely/MaterialOne">
+    <img src="https://github.com/Vancely/MaterialOne/blob/main/.github/Documentations/History/Images/materialone3.png" alt="MaterialOne 3 Logo">
+  </a>
+</p>
+<h1 align="center">MaterialOne</h1>
 
 **MaterialOne** (formerly known as **Intergraty MaterialOne**) is **group of web development platform families** developed by **Vancely**.
 
