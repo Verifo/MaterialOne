@@ -11,14 +11,12 @@ currently being supported with security updates.
 | Name1   | :white_check_mark: |
 | 1_name  | :x:                |
 | 1name   | :x:                |
-| 5.1.x   | :white_check_mark: |
 | 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
 | < 4.0   | :x:                |
-| v3.0    | :white_check_mark: |
+| v3.0 or v3    | :white_check_mark: |
 | v.3.0   | :x:                |
 | v..3.0  | :x:                |
-| r2.0    | :white_check_mark: |
+| r2.0 or r2    | :white_check_mark: |
 | 2.0r    | :x:                |
 
 ## Reporting a Vulnerability
