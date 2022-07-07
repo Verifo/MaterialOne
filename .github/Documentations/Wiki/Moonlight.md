@@ -13,5 +13,8 @@
 * On June 26, 2022, **Vancely** announced the MaterialOne 3 is a first release date on `1.6.0` to the end release date `1.6.4`.
 * On June 28, 2022, **Vancely** announced the updating website application of the Philippines on HTML, CSS, and JavaScript.
 
+**July 2022**
+* On July 7, 2022, **Vancely** announced the tomorrow was "v1.6.1", and new programming language on **Less** or **SCSS**.
+
 **Preceded by:**
 * [Sunlight Updates (November 14, 2021 - present)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Sunlight.md)
