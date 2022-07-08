@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+@mixin escape-to-parent($selector: null) {
+  @at-root #{$selector}#{&} {
+    @content;
+  }
+}
