@@ -21,7 +21,7 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 | Version | Release Date | Download `.zip` |
 |:-:|:-:|:-:|
 | v1.5.8 | June 24, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sunlight_58.zip) |
-| v1.6.0 | June 20, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Moonlight.zip) |
+| v1.6.1 | July 8, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Moonlight_1.zip) |
 
 ## Release Notes
 
