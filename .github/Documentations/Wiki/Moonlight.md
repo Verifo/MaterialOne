@@ -1,4 +1,4 @@
-# Moonlight (June 20, 2022 - January 2, 2022)
+# Moonlight (June 20, 2022 - January 2, 2023)
 
 **Moonlight** is **current** and **upcoming third major web development platform family of MaterialOne** developed and marketed by Vancely Corporation (acquired Intergralty Corporation was merges.) It was announced at the company's **WorldMax Conference** the successor to **Sunlight**.
 
@@ -15,8 +15,10 @@
 
 **July 2022**
 * On July 7, 2022, **Vancely** announced the tomorrow was "v1.6.1", and new programming language on **Less** or **SCSS**.
-* On July 18, 2022, **Vancely** announced the final release date on "v1.7.0" and end of life was "January 2, 2022". "Vancely" was renamed to "Verifo" or "Vancely Verifo".
+* On July 18, 2022, **Vancely** announced the final release date on "v1.7.0" and end of life was "January 2, 2023". "Vancely" was renamed to "Verifo" or "Vancely Verifo".
 
 **Preceded by:**
-* [Sunlight Updates (November 14, 2021 - present)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Sunlight.md)
+* [Sunlight Updates (November 14, 2021 - present)](https://github.com/Verifo/MaterialOne/blob/main/.github/Documentations/Wiki/Sunlight.md)
 
+**Succeeded by**
+* [Muse](https://www.github.com/Verifo/Muse)
