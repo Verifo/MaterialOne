@@ -14,16 +14,15 @@ The programming language is **HTML** (developed by 	**WHATWG**), **CSS** (develo
 It is Philippines' largest and hundreds of web-based development platform by March 25, 2022, March 30, 2022, and June 20, 2022.
 
 # History
-### 1. [Google and Samsung Updates (November 2, 2021 - November 14, 2021)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Google-and-Samsung.md)
-### 2. [Sunlight Updates (November 14, 2021 - October 14, 2022)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Sunlight.md)
-### 3. [Moonlight Updates (June 20, 2022 - present)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Moonlight.md)
+### 1. [Google and Samsung Updates (November 2, 2021 - November 14, 2021)](https://github.com/Verifo/MaterialOne/blob/main/.github/Documentations/Wiki/Google-and-Samsung.md)
+### 2. [Sunlight Updates (November 14, 2021 - October 14, 2022)](https://github.com/Verifo/MaterialOne/blob/main/.github/Documentations/Wiki/Sunlight.md)
+### 3. [Moonlight Updates (June 20, 2022 - January 2, 2023)](https://github.com/Verifo/MaterialOne/blob/main/.github/Documentations/Wiki/Moonlight.md)
 
 ## Downloads
 
 | Version | Release Date | Download `.zip` | Code name |
 |:-:|:-:|:-:|:-:|
-| v1.5.8 | June 24, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sunlight_58.zip) | Sunlight |
-| v1.6.1 | July 8, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Moonlight_1.zip) | Moonlight |
+| v1.7.0 | July 18, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Moonlight_2.zip) | Moonlight |
 
 ## Release Notes
 
@@ -32,9 +31,9 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 * **v1.2.0** - January 2022 Updates [**Completed**]
 * **v1.3.0** - February 2022 Updates [**Completed**]
 * **v1.4.0** - March 2022 Updates [**Completed**]
-* **v1.5.0** - April-May 2022 Updates [**Completed / Pending**] (October 14, 2022 was final release date)
-* **v1.6.0** - June 2022 Updates [**Pending**]
-* **v1.7.0** - July 2022 Updates [**Upcoming**] (July 2, 2022)
+* **v1.5.0** - April-May 2022 Updates [**Completed**] (October 14, 2022 was final release date)
+* **v1.6.0** - June 2022 Updates [**Completed**]
+* **v1.7.0** - July 2022 Updates [**Completed**] (July 2, 2022)
 
 ## Copyright and License
 * Copyright 2021-2022 **Cyril John Magayaga**
