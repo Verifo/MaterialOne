@@ -1,3 +1,5 @@
+# MaterialOne 3 was final release date on July 18, 2022 and end of life on January 2, 2023.
+
 <p align="center">
   <a href="https://github.com/Vancely/MaterialOne">
     <img src="https://github.com/Vancely/MaterialOne/blob/main/.github/Documentations/History/Images/materialone3.png" alt="MaterialOne 3 Logo">
