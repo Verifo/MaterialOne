@@ -63,6 +63,6 @@
 | v1.5.6 | Maintenance LTS | | May 10, 2022 | May 15, 2023 |
 | v1.5.7 | Active LTS | | June 18, 2022 | May 15, 2023 |
 | v1.5.8 | Current | | June 24, 2022 | May 15, 2023 |
-| v1.5.9 | Upcoming | | July 8, 2022 | May 15, 2023 |
 | v1.6.0 | Current | Moonlight | June 20, 2022 | November 20, 2023 |
-| v1.6.1 | Upcoming | | July 8, 2022 | November 20, 2023 |
+| v1.6.1 | Current | | July 8, 2022 | November 20, 2023 |
+| v1.7.0 | Current | | July 18, 2022 | November 2, 2024 |
