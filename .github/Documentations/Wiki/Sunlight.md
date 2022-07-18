@@ -59,4 +59,4 @@ Sunlight is **second major design language service family of MaterialOne** devel
 * MaterialOneLite (December 6, 2021 - April 25, 2022)
 
 **Succeeded by**
-* [Moonlight (June 20, 2022 - present)](https://github.com/Intergralty/MaterialOne/blob/main/.github/Documentations/Wiki/Moonlight.md)
+* [Moonlight (June 20, 2022 - January 2, 2023)](https://github.com/Verifo/MaterialOne/blob/main/.github/Documentations/Wiki/Moonlight.md)
