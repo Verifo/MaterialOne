@@ -23,7 +23,7 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 | Version | Release Date | Download `.zip` | Code name |
 |:-:|:-:|:-:|:-:|
 | v1.7.0 | July 18, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Moonlight_2.zip) | Moonlight |
-| v1.7.1 | August 13, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Moonlight_3.zip) | Moonlight |
+| v1.8.0 | August 13, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky.zip) | Sky |
 
 ## Release Notes
 
