@@ -1,4 +1,4 @@
-# MaterialOne 3 was final release date on July 18, 2022 and end of life on January 2, 2023.
+# MaterialOne 4 was released on August 16, 2022!
 
 <p align="center">
   <a href="https://github.com/Vancely/MaterialOne">
@@ -9,7 +9,7 @@
 
 **MaterialOne** (formerly known as **Intergraty MaterialOne**) is **group of web development platform families** developed by **Vancely**.
 
-The programming language is **HTML** (developed by 	**WHATWG**), **CSS** (developed by 	**World Wide Web Consortium** or **W3C**), **Javascript** (original author by **Brendan Eich of Netscape** and developed by **ECMAScript**), **Hack** (developed by **Meta Platforms Inc.)**, **PHP** (original author by **Rasmus Lerdorf** and developed by **The PHP Development Team** and **Zend Technologies**), and many programming language.
+It is a developed by Cyril John Magayaga.
 
 It is Philippines' largest and hundreds of web-based development platform by March 25, 2022, March 30, 2022, and June 20, 2022.
 
@@ -23,6 +23,7 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 | Version | Release Date | Download `.zip` | Code name |
 |:-:|:-:|:-:|:-:|
 | v1.7.0 | July 18, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Moonlight_2.zip) | Moonlight |
+| v1.7.1 | August 13, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Moonlight_3.zip) | Moonlight |
 
 ## Release Notes
 
