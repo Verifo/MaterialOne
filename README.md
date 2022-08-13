@@ -34,6 +34,7 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 * **v1.5.0** - April-May 2022 Updates [**Completed**] (October 14, 2022 was final release date)
 * **v1.6.0** - June 2022 Updates [**Completed**]
 * **v1.7.0** - July 2022 Updates [**Completed**] (July 2, 2022)
+* **v1.8.0** - August 2022 Updates [**Pending**]
 
 ## Copyright and License
 * Copyright 2021-2022 **Cyril John Magayaga**
