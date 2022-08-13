@@ -39,3 +39,6 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 * Copyright 2021-2022 **Cyril John Magayaga**
 * Copyright 2021-2022 **Vancely Corporation**
 * Under the **Apache-2.0 License**
+
+## Authors
+* [@Magayaga](https://github.com/magayaga)
