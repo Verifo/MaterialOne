@@ -1,5 +1,3 @@
-# MaterialOne 4 was released on August 13, 2022!
-
 <p align="center">
   <a href="https://github.com/Vancely/MaterialOne">
     <img src="https://github.com/Vancely/MaterialOne/blob/main/.github/Documentations/History/Images/materialone3.png" alt="MaterialOne 3 Logo">
