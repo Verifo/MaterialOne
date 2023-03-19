@@ -1,6 +1,6 @@
 # Moonlight (June 20, 2022 - January 2, 2023)
 
-**Moonlight** is **current** and **upcoming third major web development platform family of MaterialOne** developed and marketed by Vancely Corporation (acquired Intergralty Corporation was merges.) It was announced at the company's **WorldMax Conference** the successor to **Sunlight**.
+**Moonlight** is **third major web development platform family of MaterialOne** developed and marketed by Vancely Corporation (acquired Intergralty Corporation was merges.) It was announced at the company's **WorldMax Conference** the successor to **Sunlight**.
 
 **May 2022**
 
