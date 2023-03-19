@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Vancely/MaterialOne">
-    <img src="https://github.com/Vancely/MaterialOne/blob/main/.github/Documentations/History/Images/materialone3.png" alt="MaterialOne 3 Logo">
+    <img style="width: 100%; height: auto" src="https://github.com/Vancely/MaterialOne/blob/main/.github/Documentations/History/Images/materialone4.svg" alt="MaterialOne 3 Logo">
   </a>
 </p>
 <h1 align="center">MaterialOne</h1>
