@@ -15,9 +15,9 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 
 | Version | Release Date | Download `.zip` | Code name |
 |:-:|:-:|:-:|:-:|
-| v1.7.0 | July 18, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Moonlight_2.zip) | Moonlight |
 | v1.8.0 | August 13, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky_0.zip) | Sky |
-| v1.8.1 | August 14, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky_1.zip) | Sky |
+| v1.8.1 | March 30, 2023 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky_1.zip) | Sky |
+| v1.8.2 | TBA April 2023 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky_2.zip) | Sky |
 
 ## Release Notes
 
@@ -29,10 +29,10 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 * **v1.5.0** - April-May 2022 Updates [**Completed**] (October 14, 2022 was final release date)
 * **v1.6.0** - June 2022 Updates [**Completed**]
 * **v1.7.0** - July 2022 Updates [**Completed**] (July 2, 2022)
-* **v1.8.0** - August 2022 Updates [**Pending**]
+* **v1.8.0** - August 2022-March 2023 Updates [**Pending**]
 
 ## Copyright and License
-* Copyright 2021-2022 **Cyril John Magayaga**
+* Copyright 2021-2022; 2023-present **Cyril John Magayaga**
 * Copyright 2021-2022 **Vancely Corporation**
 * Under the **Apache-2.0 License**
 
