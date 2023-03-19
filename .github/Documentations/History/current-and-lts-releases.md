@@ -62,8 +62,9 @@
 | v1.5.5 | Maintenance LTS | | April 25, 2022 | May 15, 2023 |
 | v1.5.6 | Maintenance LTS | | May 10, 2022 | May 15, 2023 |
 | v1.5.7 | Maintenance LTS | | June 18, 2022 | May 15, 2023 |
-| v1.5.8 | Active LTS | | June 24, 2022 | May 15, 2023 |
-| v1.6.0 | Current | Moonlight | June 20, 2022 | November 20, 2023 |
-| v1.6.1 | Current | | July 8, 2022 | November 20, 2023 |
-| v1.7.0 | Current | | July 18, 2022 | November 2, 2024 |
+| v1.5.8 | Maintenance LTS | | June 24, 2022 | May 15, 2023 |
+| v1.6.0 | Active LTS | Moonlight | June 20, 2022 | November 20, 2023 |
+| v1.6.1 | Active LTS | | July 8, 2022 | November 20, 2023 |
+| v1.7.0 | Active LTS | | July 18, 2022 | November 2, 2024 |
 | v1.8.0 | Current | Sky | August 13, 2022 | January 13, 2025 |
+| v1.8.1 | Preview | | March 27, 2023 | January 13, 2025 |
