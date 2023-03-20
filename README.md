@@ -5,9 +5,7 @@
 </p>
 <h1 align="center">MaterialOne</h1>
 
-**MaterialOne** (formerly known as **Intergraty MaterialOne**) is **group of web development platform families** developed by **Vancely**.
-
-It is a developed by Cyril John Magayaga.
+**MaterialOne** (formerly known as **Intergraty MaterialOne**) is **group of web development platform families**. It is a developed by Cyril John Magayaga.
 
 It is Philippines' largest and hundreds of web-based development platform by March 25, 2022, March 30, 2022, and June 20, 2022.
 
