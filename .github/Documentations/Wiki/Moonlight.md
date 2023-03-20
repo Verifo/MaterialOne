@@ -22,3 +22,4 @@
 
 **Succeeded by**
 * [Muse](https://www.github.com/Verifo/Muse)
+* [Sky](https://github.com/Verifo/MaterialOne/blob/main/.github/Documentations/Wiki/Sky.md)
