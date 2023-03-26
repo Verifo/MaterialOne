@@ -30,9 +30,7 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 * **v1.8.0** - August 2022-March 2023 Updates [**Pending**]
 
 ## Copyright and License
-* Copyright 2021-2022; 2023-present **Cyril John Magayaga**
+* Copyright 2021-2022; 2023-present [**Cyril John Magayaga**](https://github.com/magayaga)
 * Copyright 2021-2022 **Vancely Corporation**
-* Under the **Apache-2.0 License**
+* Under the [**Apache-2.0 License**](LICENSE)
 
-## Authors
-* [@Magayaga](https://github.com/magayaga)
