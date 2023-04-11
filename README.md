@@ -15,7 +15,7 @@ It is Philippines' largest and hundreds of web-based development platform by Mar
 |:-:|:-:|:-:|:-:|
 | v1.8.0 | August 13, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky_0.zip) | Sky |
 | v1.8.1 | March 30, 2023 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky_1.zip) | Sky |
-| v1.8.2 | TBA April 2023 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky_2.zip) | Sky |
+| v1.8.2 | April 22, 2023 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky_2.zip) | Sky |
 
 ## Release Notes
 
