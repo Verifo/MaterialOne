@@ -18,6 +18,7 @@ On April 12, 2023, Cyril John Magayaga announced the new version of MaterialOne 
 | v1.8.0 | August 13, 2022 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky_0.zip) | Sky |
 | v1.8.1 | March 30, 2023 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky_1.zip) | Sky |
 | v1.8.2 | April 22, 2023 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Sky_2.zip) | Sky |
+| v1.9.0 | May 2, 2023 | [Open](https://github.com/Vancely/MaterialOne/archive/refs/tags/Cherry_0.zip) | Cherry |
 
 ## Release Notes
 
