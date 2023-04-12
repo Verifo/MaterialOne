@@ -9,6 +9,8 @@
 
 It is Philippines' largest and hundreds of web-based development platform by March 25, 2022, March 30, 2022, and June 20, 2022.
 
+On April 12, 2023, Cyril John Magayaga announced the new version of MaterialOne 5 (v1.9.0)
+
 ## Downloads
 
 | Version | Release Date | Download `.zip` | Code name |
