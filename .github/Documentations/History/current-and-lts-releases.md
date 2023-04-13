@@ -67,4 +67,4 @@
 | v1.6.1 | Active LTS | | July 8, 2022 | November 20, 2023 |
 | v1.7.0 | Active LTS | | July 18, 2022 | November 2, 2024 |
 | v1.8.0 | Current | Sky | August 13, 2022 | January 13, 2025 |
-| v1.8.1 | Preview | | March 27, 2023 | January 13, 2025 |
+| v1.8.1 | Preview | | March 30, 2023 | January 13, 2025 |
